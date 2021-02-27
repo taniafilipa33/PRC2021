@@ -1,0 +1,19 @@
+[
+  {
+    "repeat(1,200)": {
+      "id": "a{{index()}}",
+      "nome": "{{firstName()}} {{surname()}}",
+      "UC": [
+        "PRC",
+        "DC",
+        "IS",
+        "SPLN"
+      ],
+      "tipo": "Aluno"
+    }
+  }
+]
+
+
+
+-- padrão utilizado no next json generator para gerar 200 alunos
