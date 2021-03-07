@@ -1,0 +1,259 @@
+@prefix : <http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica> .
+
+<http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#compôs
+:compôs rdf:type owl:ObjectProperty ;
+        owl:inverseOf :foiCompostaPor ;
+        rdfs:domain :Compositor ;
+        rdfs:range :Obra .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#contém
+:contém rdf:type owl:ObjectProperty ;
+        rdfs:domain :Obra ;
+        rdfs:range :InfoRelacionada .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#foiCompostaPor
+:foiCompostaPor rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#segue
+:segue rdf:type owl:ObjectProperty ;
+       owl:inverseOf :éSeguidaPor ;
+       rdfs:domain :Intrumento ;
+       rdfs:range :Partitura .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#tem
+:tem rdf:type owl:ObjectProperty ;
+     rdfs:domain :InfoRelacionada ;
+     rdfs:range :Video .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#utiliza
+:utiliza rdf:type owl:ObjectProperty ;
+         owl:inverseOf :utilizadorPor .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#utilizadorPor
+:utilizadorPor rdf:type owl:ObjectProperty ;
+               rdfs:domain :Intrumento ;
+               rdfs:range :Obra .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#éSeguidaPor
+:éSeguidaPor rdf:type owl:ObjectProperty ;
+             rdfs:domain :Partitura ;
+             rdfs:range :Intrumento .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#afinacao
+:afinacao rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Partitura .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#arranjo
+:arranjo rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Obra .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#clave
+:clave rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Partitura .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#designacao
+:designacao rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Intrumento .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#editado
+:editado rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Obra .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#href
+:href rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Video .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#nome
+:nome rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#nomePartitura
+:nomePartitura rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#path
+:path rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Partitura .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#tipo
+:tipo rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Obra .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#titulo
+:titulo rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Obra .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#type
+:type rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Partitura .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#voz
+:voz rdf:type owl:DatatypeProperty ;
+     rdfs:domain :Partitura .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#Compositor
+:Compositor rdf:type owl:Class ;
+            rdfs:subClassOf :Obra ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty :compôs ;
+                              owl:someValuesFrom :Obra
+                            ] .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#InfoRelacionada
+:InfoRelacionada rdf:type owl:Class ;
+                 rdfs:subClassOf :Obra ,
+                                 [ rdf:type owl:Restriction ;
+                                   owl:onProperty :tem ;
+                                   owl:someValuesFrom :Video
+                                 ] .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#Intrumento
+:Intrumento rdf:type owl:Class ;
+            rdfs:subClassOf :Obra ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty :segue ;
+                              owl:someValuesFrom :Partitura
+                            ] .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#Obra
+:Obra rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#Partitura
+:Partitura rdf:type owl:Class ;
+           rdfs:subClassOf :Intrumento ,
+                           [ rdf:type owl:Restriction ;
+                             owl:onProperty :éSeguidaPor ;
+                             owl:someValuesFrom :Intrumento
+                           ] .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#Video
+:Video rdf:type owl:Class ;
+       rdfs:subClassOf :InfoRelacionada .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#BBM
+:BBM rdf:type owl:NamedIndividual ,
+              :Compositor ;
+     :compôs :Macarena ;
+     :nome "Bernardino Bautista Monteverde" .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#Bateria
+:Bateria rdf:type owl:NamedIndividual ,
+                  :Intrumento ;
+         :segue :pt2 ;
+         :utilizadorPor :Macarena ;
+         :designacao "Bateria" .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#Clarinete
+:Clarinete rdf:type owl:NamedIndividual ,
+                    :Intrumento ;
+           :segue :pt1 ;
+           :designacao "Clarinete" .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#JH
+:JH rdf:type owl:NamedIndividual ,
+             :Compositor .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#La_Storia
+:La_Storia rdf:type owl:NamedIndividual ,
+                    :Obra ;
+           :foiCompostaPor :JH ;
+           :tipo "Abertura/Concerto" ;
+           :titulo "La Storia" .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#Macarena
+:Macarena rdf:type owl:NamedIndividual ,
+                   :Obra ;
+          :contém :info1 ;
+          :foiCompostaPor :BBM ;
+          :utiliza :Bateria ;
+          :arranjo "Naohiro Iwai" ;
+          :tipo "Ligeiro/Fantasia" ;
+          :titulo "Macarena" .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#info1
+:info1 rdf:type owl:NamedIndividual ,
+                :InfoRelacionada ;
+       :tem :mVideo .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#mVideo
+:mVideo rdf:type owl:NamedIndividual ,
+                 :Video ;
+        :href "https://www.youtube.com/watch?v=bXsa0aoGhXk" .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#pt1
+:pt1 rdf:type owl:NamedIndividual ,
+              :Partitura ;
+     :éSeguidaPor :Clarinete ;
+     :nomePartitura "pt1" ;
+     :path "LaStoria-clarinete1.pdf" ;
+     :type "PDF" ;
+     :voz "II" .
+
+
+###  http://www.semanticweb.org/comta/ontologies/NovoarquivoMusica#pt2
+:pt2 rdf:type owl:NamedIndividual ,
+              :Partitura ;
+     :éSeguidaPor :Bateria ;
+     :nomePartitura "pt2" ;
+     :path "Macarena-bateria.pdf" ;
+     :type "PDF" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
