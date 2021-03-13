@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  .w3-container
+    h2.w3-center Propriedades do Individuo
+    p 
+    table.w3-table.w3-striped
+      tbody        
+        tr
+            each ele in prop
+              th=ele.p
+        tr
+            each ele in prop 
+              td=ele.o
+
+    a.w3-button(href="/") Voltar para Página Inicial    
+     

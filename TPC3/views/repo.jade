@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  .w3-container
+    h2.w3-center Lista de Classes
+    p 
+    ul.w3-ul.w3-card-4.w3-center.w3-light-green
+      each ele in classes
+        hr
+        a.w3-bar.w3-button(href="/repositories/"+repos+"/class/"+ele)
+          .w3-bar-item
+            b.w3-large=ele
+        hr
+     

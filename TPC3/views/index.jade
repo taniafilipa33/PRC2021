@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  .w3-container
+    h2.w3-center Lista de Repositórios
+    p 
+    ul.w3-ul.w3-card-4.w3-center.w3-light-gray
+      each ele in reps
+        a.w3-bar.w3-button(href="/repositories/"+ele.id)
+          .w3-bar-item
+            b.w3-large=ele.title
+            br
+            span=ele.uri
+     
