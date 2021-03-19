@@ -1,0 +1,33 @@
+extends layout
+
+block content
+  .w3-main(style='margin-left:300px;margin-top:43px;')
+    // Header
+    header.w3-container(style='padding-top:22px')
+      h5
+        b
+          i.fa.fa-dashboard
+          |
+          =titulo
+    .w3-container
+      table.w3-table.w3-striped.w3-bordered.w3-border.w3-hoverable.w3-white.w3-half
+        tr
+            each ele in elem
+                if ele.p != 'type' && ele.p != 'element'
+                    th= ele.p
+        tr
+            each ele in elem
+                if ele.p != 'type' && ele.p != 'element'
+                    th= ele.o
+    br
+    if titulo === ' Grupo' || titulo === ' Periodo'
+        .w3-container
+          table.w3-table.w3-striped.w3-bordered.w3-border.w3-hoverable.w3-white.w3-half
+            tr 
+                td Elementos
+            each ele in elem 
+                if ele.p == 'element'
+                    tr
+                       td
+                          a(href="/elements/"+ele.o)=ele.o
+    br
