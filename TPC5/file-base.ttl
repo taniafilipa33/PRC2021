@@ -1,0 +1,233 @@
+@prefix : <http://www.semanticweb.org/comta/ontologies/tp5#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/comta/ontologies/tp5> .
+
+<http://www.semanticweb.org/comta/ontologies/tp5> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#editou
+:editou rdf:type owl:ObjectProperty ;
+        owl:inverseOf :foiEditadorPor ;
+        rdfs:domain :Editor ;
+        rdfs:range :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#foiEditadorPor
+:foiEditadorPor rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#foiEscritoPor
+:foiEscritoPor rdf:type owl:ObjectProperty ;
+               owl:inverseOf :éAutor .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#refAutor
+:refAutor rdf:type owl:ObjectProperty ;
+          owl:inverseOf :éAutorREF .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#éAutor
+:éAutor rdf:type owl:ObjectProperty ;
+        rdfs:domain :Autor ;
+        rdfs:range :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#éAutorREF
+:éAutorREF rdf:type owl:ObjectProperty ;
+           rdfs:domain :Autor ;
+           rdfs:range :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#éEditorREF
+:éEditorREF rdf:type owl:ObjectProperty ;
+            rdfs:domain :Editor ;
+            rdfs:range :Publicacao .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#address
+:address rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#booktitle
+:booktitle rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#chapter
+:chapter rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#doi
+:doi rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#howpublished
+:howpublished rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#isbn
+:isbn rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#issn
+:issn rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#journal
+:journal rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#month
+:month rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#nome
+:nome rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#pages
+:pages rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#pdf
+:pdf rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#publisher
+:publisher rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#school
+:school rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#title
+:title rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#uri
+:uri rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#volume
+:volume rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#year
+:year rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Artigo
+:Artigo rdf:type owl:Class ;
+        rdfs:subClassOf :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Autor
+:Autor rdf:type owl:Class ;
+       rdfs:subClassOf :Pessoa .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Editor
+:Editor rdf:type owl:Class ;
+        rdfs:subClassOf :Pessoa .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Inbook
+:Inbook rdf:type owl:Class ;
+        rdfs:subClassOf :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Inproceedings
+:Inproceedings rdf:type owl:Class ;
+               rdfs:subClassOf :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Livro
+:Livro rdf:type owl:Class ;
+       rdfs:subClassOf :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Masterthesis
+:Masterthesis rdf:type owl:Class ;
+              rdfs:subClassOf :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Misc
+:Misc rdf:type owl:Class ;
+      rdfs:subClassOf :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Pessoa
+:Pessoa rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Phdthesis
+:Phdthesis rdf:type owl:Class ;
+           rdfs:subClassOf :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Proceedings
+:Proceedings rdf:type owl:Class ;
+             rdfs:subClassOf :Publicacao .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#Publicacao
+:Publicacao rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#ap
+:ap rdf:type owl:NamedIndividual ,
+             :Autor ;
+    :éAutor :cisti2017 ;
+    :nome "André Pereira" .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#cisti2017
+:cisti2017 rdf:type owl:NamedIndividual ,
+                    :Inproceedings ;
+           :refAutor :jcr ;
+           :address "ISCTE, Lisboa, Portugal" ;
+           :booktitle "12th Iberian Conference on Information Systems and Technologies (CISTI)," ;
+           :doi "http://hdl.handle.net/1822/46093" ;
+           :month 06.24 ;
+           :title "RODA-in: A generic tool for the mass creation of Submission Information Packages" ;
+           :year 2017 .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#jcr
+:jcr rdf:type owl:NamedIndividual ,
+              :Autor ;
+     :éAutorREF :cisti2017 .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#lf
+:lf rdf:type owl:NamedIndividual ,
+             :Autor ;
+    :éAutorREF :cisti2017 .
+
+
+###  http://www.semanticweb.org/comta/ontologies/tp5#mf
+:mf rdf:type owl:NamedIndividual ,
+             :Autor ;
+    :éAutorREF :cisti2017 .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
