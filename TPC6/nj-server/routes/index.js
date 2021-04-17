@@ -44,9 +44,10 @@ router.get("/pubs", function (req, res, next) {
   axios
     .get(linkQuery + encoded)
     .then((dados) => {
+      console.log(dados.data.results.bindings);
       var pubs = dados.data.results.bindings.map((bind) => {
         return {
-          s: bind.s.value.split("#")[1],
+          titulo: bind.s.value.split("#")[1],
         };
       });
       res.status(200).jsonp(pubs);
