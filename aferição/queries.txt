@@ -1,0 +1,6 @@
+1.
+SELECT *
+WHERE {
+    ?entity rdf:type owl:NamedIndividual
+}
+2.

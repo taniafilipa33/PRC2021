@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/comta/ontologies/aferição#"
+     xml:base="http://www.semanticweb.org/comta/ontologies/aferição"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:aferição="http://www.semanticweb.org/comta/ontologies/aferição#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/comta/ontologies/aferição">
+        <rdfs:comment>Ontologia desenvolvida no ambito de uma prova de aferição.</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#éArrendadoPor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#éArrendadoPor">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#éArrendatário"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#éArrendatário -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#éArrendatário"/>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#éPropriendadeDe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#éPropriendadeDe">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#éProprientario"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#éProprientario -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#éProprientario"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#data -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#data">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#description -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#description">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#descrição -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#descrição">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Fração"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#email -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#email">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Pessoa"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#entidade -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#entidade">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#fração -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#fração">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#mensalidade -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#mensalidade">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Fração"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#mes -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#mes">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#nome -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#nome">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Pessoa"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#numFração -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#numFração">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Fração"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#número -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#número">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#origem -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#origem">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#permilagem -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#permilagem">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Fração"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#telefone -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#telefone">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Pessoa"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#tipo -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#tipo">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#valor -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#valor">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#Arrendatario -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#Arrendatario">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Pessoa"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#Condominio -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#Condominio"/>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#Fração -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#Fração">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Condominio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Condominio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Condominio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#Pessoa -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#Pessoa"/>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#Proprientario -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#Proprientario">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Pessoa"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#Fração01 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#Fração01">
+        <rdf:type rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#Fração"/>
+        <descrição>Loja</descrição>
+        <mensalidade rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.06</mensalidade>
+        <numFração>A</numFração>
+        <permilagem rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</permilagem>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#Mapa01 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#Mapa01">
+        <rdf:type rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento"/>
+        <fração>Loja</fração>
+        <mes>Abr</mes>
+        <mes>Fev</mes>
+        <mes>Jan</mes>
+        <mes>Mar</mes>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/aferição#Receitas01 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/comta/ontologies/aferição#Receitas01">
+        <rdf:type rdf:resource="http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas"/>
+        <data>2020-01-04</data>
+        <description>Manutenção da conta</description>
+        <entidade>CGD</entidade>
+        <número>2020/001</número>
+        <tipo>Despesa</tipo>
+        <valor rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7.28</valor>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

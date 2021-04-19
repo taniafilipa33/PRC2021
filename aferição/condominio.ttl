@@ -1,0 +1,757 @@
+@prefix : <http://www.semanticweb.org/comta/ontologies/condominio#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/comta/ontologies/condominio> .
+
+<http://www.semanticweb.org/comta/ontologies/condominio> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#éArrendadoPor
+<http://www.semanticweb.org/comta/ontologies/aferição#éArrendadoPor> rdf:type owl:ObjectProperty ;
+                                                                     owl:inverseOf <http://www.semanticweb.org/comta/ontologies/aferição#éArrendatário> .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#éArrendatário
+<http://www.semanticweb.org/comta/ontologies/aferição#éArrendatário> rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#éPropriendadeDe
+<http://www.semanticweb.org/comta/ontologies/aferição#éPropriendadeDe> rdf:type owl:ObjectProperty ;
+                                                                       owl:inverseOf <http://www.semanticweb.org/comta/ontologies/aferição#éProprientario> .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#éProprientario
+<http://www.semanticweb.org/comta/ontologies/aferição#éProprientario> rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#data
+<http://www.semanticweb.org/comta/ontologies/aferição#data> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#description
+<http://www.semanticweb.org/comta/ontologies/aferição#description> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#descrição
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#entidade
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#fração
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#mensalidade
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#mes
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#numFração
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#número
+<http://www.semanticweb.org/comta/ontologies/aferição#número> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#permilagem
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#tipo
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#valor
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Arrendatario
+<http://www.semanticweb.org/comta/ontologies/aferição#Arrendatario> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <http://www.semanticweb.org/comta/ontologies/aferição#Pessoa> .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Condominio
+<http://www.semanticweb.org/comta/ontologies/aferição#Condominio> rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> rdf:type owl:Class ;
+                                                              rdfs:subClassOf <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> rdf:type owl:Class ;
+                                                                             rdfs:subClassOf <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> rdf:type owl:Class ;
+                                                                     rdfs:subClassOf <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Pessoa
+<http://www.semanticweb.org/comta/ontologies/aferição#Pessoa> rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Proprientario
+<http://www.semanticweb.org/comta/ontologies/aferição#Proprientario> rdf:type owl:Class ;
+                                                                     rdfs:subClassOf <http://www.semanticweb.org/comta/ontologies/aferição#Pessoa> .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração01
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração01> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "Loja" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 6.06 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "A" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "50"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração02
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração02> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "1º Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 36.45 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "F" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "24"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração03
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração03> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "1º Esq" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 51.63 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "G" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "34"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração04
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração04> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "2º Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 36.45 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "H" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "24"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração05
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração05> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "3º Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 36.45 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "I" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "24"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração06
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração06> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "3º Esq" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 51.63 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "J" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "34"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração07
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração07> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "4º Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 36.45 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "L" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "24"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração08
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração08> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "5º Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 36.45 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "M" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "24"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração09
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração09> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "5º Esq" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 51.63 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "N" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "34"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração10
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração10> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "6º Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 36.45 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "O" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "24"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração11
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração11> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "7º Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 36.45 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "P" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "24"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração12
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração12> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "7º Esq" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 51.63 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "Q" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "34"
+.
+
+###  http://www.semanticweb.org/comta/ontologies/aferição#Fração13
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração13> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#Fração> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#descrição> "8º Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mensalidade> 36.45 ;
+<http://www.semanticweb.org/comta/ontologies/aferição#numFração> "R" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#permilagem> "24"
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa01
+<www.semanticweb.org/comta/ontologies/aferição#Mapa01> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "1Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar',
+'Abr'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa02
+<www.semanticweb.org/comta/ontologies/aferição#Mapa02> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "2Dto" .
+
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa03
+<www.semanticweb.org/comta/ontologies/aferição#Mapa03> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "3Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar',
+'Abr',
+'Mai',
+'Jun',
+'Jul',
+'Ago',
+'Set',
+'Out',
+'Nov',
+'Dez'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa04
+<www.semanticweb.org/comta/ontologies/aferição#Mapa04> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "4Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar',
+'Abr',
+'Mai',
+'Jun',
+'Jul',
+'Ago',
+'Set',
+'Out',
+'Nov',
+'Dez'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa05
+<www.semanticweb.org/comta/ontologies/aferição#Mapa05> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "5Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar',
+'Abr',
+'Mai',
+'Jun'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa06
+<www.semanticweb.org/comta/ontologies/aferição#Mapa06> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "6Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar',
+'Abr',
+'Mai',
+'Jun',
+'Jul',
+'Ago'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa07
+<www.semanticweb.org/comta/ontologies/aferição#Mapa07> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "7Dto" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar',
+'Abr'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa08
+<www.semanticweb.org/comta/ontologies/aferição#Mapa08> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "8Dto" .
+
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa09
+<www.semanticweb.org/comta/ontologies/aferição#Mapa09> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "1Esq" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa10
+<www.semanticweb.org/comta/ontologies/aferição#Mapa10> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "3Esq" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa11
+<www.semanticweb.org/comta/ontologies/aferição#Mapa11> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "5Esq" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar',
+'Abr'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa12
+<www.semanticweb.org/comta/ontologies/aferição#Mapa12> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "7Esq" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#mes> 
+'Jan',
+'Fev',
+'Mar',
+'Abr'
+.
+
+###  www.semanticweb.org/comta/ontologies/aferição#Mapa13
+<www.semanticweb.org/comta/ontologies/aferição#Mapa13> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#MapaPagamento> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#fração> "Loja" .
+
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas01
+<www.semanticweb.org/comta/ontologies/aferição#Receitas01> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-01-04" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Manutenção da conta' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'CGD' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/001' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 7.28 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas02
+<www.semanticweb.org/comta/ontologies/aferição#Receitas02> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-01-06" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Janeiro' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '7º Esq' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/002' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 64.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas03
+<www.semanticweb.org/comta/ontologies/aferição#Receitas03> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-01-06" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Abril a Dezembro de 2019' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '2º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/003' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 406.62 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas04
+<www.semanticweb.org/comta/ontologies/aferição#Receitas04> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-01-08" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Luz' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'EDP' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/004' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 222.65 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas05
+<www.semanticweb.org/comta/ontologies/aferição#Receitas05> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-01-16" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Janeiro' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '7º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/005' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 45.18 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas06
+<www.semanticweb.org/comta/ontologies/aferição#Receitas06> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-01" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Manutenção da conta' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'CGD' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/006' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 7.28 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas07
+<www.semanticweb.org/comta/ontologies/aferição#Receitas07> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-04" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Fevereiro' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '5º Esq' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/007' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 64.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas08
+<www.semanticweb.org/comta/ontologies/aferição#Receitas08> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-06" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Fevereiro' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '7º Esq' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/008' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 64.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas09
+<www.semanticweb.org/comta/ontologies/aferição#Receitas09> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-01-20" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Manutenção dos elevadores: 1º trimestre' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'Kone' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/009' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 439.77 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas10
+<www.semanticweb.org/comta/ontologies/aferição#Receitas10> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-12" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Janeiro Fevereiro e Março' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '1º e 3º Esq' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/010' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 384.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas11
+<www.semanticweb.org/comta/ontologies/aferição#Receitas11> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-20" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Fevereiro' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '7º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/011' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 45.18 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas12
+<www.semanticweb.org/comta/ontologies/aferição#Receitas12> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-24" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Concerto do trinco da porta' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'Serralheiro' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/012' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 20.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas13
+<www.semanticweb.org/comta/ontologies/aferição#Receitas13> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-24" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Inspeção dos elevadores' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'CMB' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/013' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 174.30 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas14
+<www.semanticweb.org/comta/ontologies/aferição#Receitas14> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-24" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Acertos: Janeiro Fevereiro Março Abril e 13.58 de Maio' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '1º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/014' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 194.30 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas15
+<www.semanticweb.org/comta/ontologies/aferição#Receitas15> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-03-11" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Janeiro a Junho' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '5º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/015' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 271.08 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas16
+<www.semanticweb.org/comta/ontologies/aferição#Receitas16> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-03-11" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Reparação das fachadas' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'PluriRapel' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/016' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 1655.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas17
+<www.semanticweb.org/comta/ontologies/aferição#Receitas17> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-26" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Março' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '5º Esq' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/017' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 64.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas18
+<www.semanticweb.org/comta/ontologies/aferição#Receitas18> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-02-29" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Janeiro a Dezembro' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '3º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/018' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 542.16 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas19
+<www.semanticweb.org/comta/ontologies/aferição#Receitas19> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-03-04" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Luz' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'EDP' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/019' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 236.59 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas20
+<www.semanticweb.org/comta/ontologies/aferição#Receitas20> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-03-06" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Março' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '7º Esq' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/020' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 64.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas21
+<www.semanticweb.org/comta/ontologies/aferição#Receitas21> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-03-07" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Manutenção da conta' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'CGD' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/021' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 7.28 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas22
+<www.semanticweb.org/comta/ontologies/aferição#Receitas22> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-03-15" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Março' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '7º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/022' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 45.18 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas23
+<www.semanticweb.org/comta/ontologies/aferição#Receitas23> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-03-30" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Abril ' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '5º Esq' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/023' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 64.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas24
+<www.semanticweb.org/comta/ontologies/aferição#Receitas24> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-04-04" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Manutenção da conta' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'CGD' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/024' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 7.28 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas25
+<www.semanticweb.org/comta/ontologies/aferição#Receitas25> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-04-06" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Abril' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '7º Esq' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/025' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 64.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas26
+<www.semanticweb.org/comta/ontologies/aferição#Receitas26> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-04-07" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Abril a Agosto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '6º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/026' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 225.90 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas27
+<www.semanticweb.org/comta/ontologies/aferição#Receitas27> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-04-14" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Abril' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '7º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/027' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 45.18 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas28
+<www.semanticweb.org/comta/ontologies/aferição#Receitas28> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-04-15" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Luz Comum' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'Vizinhos' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/028' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 207.98 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas29
+<www.semanticweb.org/comta/ontologies/aferição#Receitas29> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-04-15" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Limpeza 2020' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'Limpeza' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/029' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 1080.00 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas30
+<www.semanticweb.org/comta/ontologies/aferição#Receitas30> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-04-15" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Janeiro a Dezembro' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> '4º Dto' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/030' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Receita' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 542.16 .
+
+###  www.semanticweb.org/comta/ontologies/aferição#Receitas31
+<www.semanticweb.org/comta/ontologies/aferição#Receitas31> rdf:type owl:NamedIndividual ,
+ <http://www.semanticweb.org/comta/ontologies/aferição#Condominio> ,
+<http://www.semanticweb.org/comta/ontologies/aferição#LivroReceitasDespesas> ;
+<http://www.semanticweb.org/comta/ontologies/aferição#data> "2020-04-01" ;
+<http://www.semanticweb.org/comta/ontologies/aferição#description> 'Manutenção dos elevadores: 2º trimestre' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#entidade> 'Kone' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#número> '2020/031' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#tipo> 'Despesa' ;
+<http://www.semanticweb.org/comta/ontologies/aferição#valor> 439.77 .
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
