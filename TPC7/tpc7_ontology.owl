@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/comta/ontologies/tpc7#"
+     xml:base="http://www.semanticweb.org/comta/ontologies/tpc7"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:tpc7="http://www.semanticweb.org/comta/ontologies/tpc7#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7">
+        <rdfs:comment>Ontologia gerada para o trabalho de casa 7 de PRC</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#temDestino -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#temDestino">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Ligação"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#temOrigem -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#temOrigem">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Ligação"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#descrição -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#descrição">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#destrito -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#destrito">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#distancia -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#distancia">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Ligação"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#id -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#id">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#idL -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#idL">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Ligação"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#nome -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#nome">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#população -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#população">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#Cidade -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#Ligação -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#Ligação"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#c1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#c1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+        <descrição>Occaecat labore quis et irure nulla Lorem. Exercitation excepteur tempor est ex incididunt sunt id veniam culpa reprehenderit. Qui culpa consectetur quis officia ipsum deserunt cupidatat fugiat. Aute aliquip non sit laborum cillum.</descrição>
+        <destrito>Porto</destrito>
+        <id>c1</id>
+        <nome>Paços de Ferreira</nome>
+        <população rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400888</população>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#c89 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#c89">
+        <rdf:type rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Cidade"/>
+        <descrição>Eu laboris tempor anim sunt cillum Lorem culpa ex sit aliquip duis. Exercitation do et magna enim occaecat aute sunt cillum sit. Proident sunt eu sint excepteur et do nulla. Do nisi nisi proident esse mollit anim eiusmod aliquip. Aliqua consequat exercitation consectetur quis labore officia dolor non tempor dolore laboris ullamco reprehenderit. Tempor excepteur in aute ea pariatur reprehenderit. Aliqua velit ex laborum aute.</descrição>
+        <destrito>Braga</destrito>
+        <id>c89</id>
+        <nome>Terras de Bouro</nome>
+        <população rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">503416</população>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/comta/ontologies/tpc7#l42 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/comta/ontologies/tpc7#l42">
+        <rdf:type rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#Ligação"/>
+        <temDestino rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#c89"/>
+        <temOrigem rdf:resource="http://www.semanticweb.org/comta/ontologies/tpc7#c1"/>
+        <distancia rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">244.169</distancia>
+        <idL>l42</idL>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
