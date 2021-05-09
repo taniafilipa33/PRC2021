@@ -1,0 +1,76 @@
+select ?s ?n ?d where { 
+	?s a :Cidade;
+    :nome ?n;
+    :distrito ?d.
+}order by ?n
+
+
+
+select ?s ?o ?d ?dist ?n1 ?n2 where { 
+	?s a :Ligação;
+    :temOrigem ?o;
+    :temDestino ?d;
+    :distancia ?dist.
+    ?o :nome ?n1.
+    ?d :nome ?n2.
+}order by ?n
+
+
+
+select ?c ?n ?dist  where { 
+	?s a :Ligação;
+    :temOrigem :c7;
+    :temDestino ?c;
+    :distancia ?dist.
+    ?c :nome ?n.
+}order by ?n
+
+
+select ?d (count (?s) as ?cidades)  where { 
+	?s :distrito ?d.
+}group by ?d
+order by ?d
+
+
+__________________________INSERTS
+
+insert data {
+    :c101 rdf:type owl:NamedIndividual ,			:Cidade ;
+	:descrição 'Rainha dos Vez.' ;
+	:distrito 'Viana do Castelo' ;
+	:id 'c101' ;
+	:nome 'Arcos de Valdedez' ;
+	:população 40000 .
+}
+
+
+
+NO caso dos deletes é necessário por os statments completos para eliminar cenas: Por exemplo apagar a população do Id 101
+
+delete data {
+    :c101 :população 40000 .
+}
+
+
+calculo de ancstrais:
+select .... where {
+    ?ind :pai/:pai ?avo.
+    ?ind :pai* ?ancestrais.
+}
+
+
+criação de ligação direta entre cidades:
+
+CONSTRUCT {
+    ?c1 :temLigação ?c2.
+} WHERE {
+    ?l :temOrigem ?c1.
+    ?l :temDestino ?c2.
+}
+
+
+/// ver se um coiso existe
+
+ASK {
+ :c1 ?d :Ligação.
+}
