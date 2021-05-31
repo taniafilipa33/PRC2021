@@ -50,43 +50,58 @@ router.get("/api/emd", async function (req, res, next) {
       })
       .catch((e) => console.log(e));
   } else {
-    var query1 = `  
+    if (req.query.clube) {
+      var query1 =
+        `SELECT ?nome
+      WHERE  { 
+          ?clube ?p :Clube;
+                 :nomeClube '` +
+        req.query.clube +
+        `';
+        :temAtleta ?atleta.   
+          ?atleta :nomeCompleto ?nome.
+      } order by ?nome`;
+      execQuery(query1)
+        .then((result) => {
+          result = result.results.bindings.map((c) => {
+            return {
+              nome: c.nome.value,
+            };
+          });
+          res.jsonp(result);
+        })
+        .catch((e) => console.log(e));
+    } else {
+      var query1 = `  
   select ?emd ?resultado ?data where {
     ?emd ?p :EMD;
       :resultado ?resultado;
       :dataEMD ?data.
   } 
   `;
-    var query2 = `  
-  select ?emd ?nome where {
-    ?atleta ?p :Atleta ;
-           :nomeCompleto ?nome;
-           :temExame ?emd.
-  } 
-  
-  `;
 
-    execQuery(query1)
-      .then((result) => {
-        execQuery(query2)
-          .then((result2) => {
-            result = result.results.bindings.map((c) => {
-              return result2.results.bindings.map((e) => {
-                if (c.emd.value.split("#")[1] == e.emd.value.split("#")[1]) {
-                  return {
-                    ID: c.emd.value.split("#")[1],
-                    Nome: e.nome.value,
-                    data: c.data.value,
-                    resultado: c.resultado.value,
-                  };
-                }
+      execQuery(query1)
+        .then((result) => {
+          execQuery(query2)
+            .then((result2) => {
+              result = result.results.bindings.map((c) => {
+                return result2.results.bindings.map((e) => {
+                  if (c.emd.value.split("#")[1] == e.emd.value.split("#")[1]) {
+                    return {
+                      ID: c.emd.value.split("#")[1],
+                      Nome: e.nome.value,
+                      data: c.data.value,
+                      resultado: c.resultado.value,
+                    };
+                  }
+                });
               });
-            });
-            res.jsonp(result);
-          })
-          .catch((e) => console.log(e));
-      })
-      .catch((e) => console.log(e));
+              res.jsonp(result);
+            })
+            .catch((e) => console.log(e));
+        })
+        .catch((e) => console.log(e));
+    }
   }
 });
 
