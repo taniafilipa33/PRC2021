@@ -1,0 +1,50 @@
+1---------------Triplos irmão
+
+PREFIX : <http://prc.di.uminho.pt/2021/myfamily#>
+
+CONSTRUCT {
+        ?irmao1 :irmao ?irmao2 .
+        ?irmao2 :irmao ?irmao1 .
+    } WHERE {
+        ?irmao1 :temProgenitor ?pai1.
+        ?irmao2 :temProgenitor ?pai1.
+    }
+
+2--------------Triplo bisavô
+
+CONSTRUCT {
+    ?pai3 :bisavo ?filho1 .
+
+} WHERE {
+    ?filho1 :temProgenitor ?pai1 .
+    ?pai1 :temProgenitor ?pai2 .
+    ?pai2 :temProgenitor ?pai3 .
+
+}
+
+3-------------Descendente
+
+CONSTRUCT {
+    ?alguem1 :descendente ?alguem2 .
+
+} WHERE {
+    ?alguem2 :eProgenitorDe ?alguem1 .
+
+}
+
+4-------------Primos
+
+
+5------------adicionar Sexo (temMae e TemPai)
+
+CONSTRUCT {
+    ?mae :sexo "F" . 
+    ?pai :sexo "M" .
+
+} WHERE {
+    ?filho1 :temMae ?mae .
+    ?filho2 :temPai ?pai .
+
+}
+6-------------Relaçao
+

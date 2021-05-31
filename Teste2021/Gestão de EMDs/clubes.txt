@@ -1,0 +1,2401 @@
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Emily_Terrell ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Medina_Hartman ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Andrews_Rivas ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Marcella_Combs ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mendoza_Buckner ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sellers_Copeland ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Bernard_Stokes ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Alfreda_Raymond ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Alston_Green ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Paige_Mccarthy ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Claudine_Gill ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Summer_Calhoun ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Slater_David ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ophelia_Boyd ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Evans_Singleton ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Church_Bishop ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Woodard_Bennett ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Vasquez_Michael ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Holloway_Maxwell ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Michele_Barber ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Chambers_Burton ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Massey_Goodman ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Klein_Cameron ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lambert_Mueller ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ewing_Drake ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lester_Manning ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Nina_Fowler ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lynn_Shaw ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Betty_Blake ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Oneill_Roth ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Roxanne_Miles ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Cecelia_Adams ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Irma_Jacobs ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Angelia_Noel ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sallie_Shaffer ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jordan_Bonner ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Bartlett_Sexton ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Opal_Stewart ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ola_Glover ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Shelia_York ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Raquel_Ratliff ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Burke_Weeks ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Best_French ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Fowler_Alvarez ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Terri_Avila ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Alford_Small ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Key_Arnold ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Nguyen_Diaz ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sherry_Morales ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Crane_Ballard ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Terry_Chaney ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sheppard_Bryant ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Janis_Mckinney ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sue_Waters ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Cynthia_Page ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Montgomery_Rhodes ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Claire_Joyce ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Evangelina_Key ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Effie_Gibson ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Maureen_Cobb ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Dee_Holman ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Larson_Morin ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ursula_Martinez ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :English_Clemons ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Stella_Jackson ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Haley_Joseph ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Kelsey_Roberts ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Watson_Lynch ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Chasity_Coffey ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Paula_Delaney ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Galloway_Sanders ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Tina_Blankenship ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Whitehead_Montgomery ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Dominguez_Chambers ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Booth_Eaton ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Joanna_Grant ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jeri_Pearson ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sanchez_Mcgee ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Magdalena_Francis ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Morris_Poole ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Rodriguez_Gonzalez ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Christine_Rice ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Valdez_Harper ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Berta_Clay ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Bonnie_Sandoval ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Stein_Wiggins ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Tanya_Mcclain ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Perry_Sanford ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Maxine_Rutledge ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Tucker_Morse ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Thelma_Schmidt ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Charles_Kim ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Duncan_Davidson ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Gertrude_Dillon ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Brennan_Santana ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ball_Barlow ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Oneil_Baxter ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Helena_Mayo ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Martin_Brewer ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Wilder_Greene ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Harrison_Finch ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jordan_Alvarez ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lane_Norton ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Carrillo_Munoz ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Barrett_Frederick ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Harmon_Stone ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Chandra_Potts ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :John_Warner ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Casey_Bowman ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mccullough_Pena ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Brianna_Bentley ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Nixon_Hendrix ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Buckner_Luna ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Britt_Zamora ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Hendrix_Bauer ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Travis_Sampson ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Darla_Ware ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Peters_Vaughn ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lawrence_Herman ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Chang_Oneill ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Patrick_Mcintyre ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Joyce_Evans ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Larsen_Villarreal ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Morrow_Yang ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Dunn_Horn ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Viola_Medina ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Valdez_Barnes ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sweet_Gibbs ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Addie_Hayes ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :May_Holt ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Christensen_Boyd ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Workman_Franks ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lucile_Underwood ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Heath_Bishop ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Rosales_Mejia ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ray_Howe ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Suarez_Campbell ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Shaffer_Le ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Justine_Wise ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Villarreal_Tucker ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Monica_Neal ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lloyd_Dotson ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mccray_Barker ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sellers_Hunter ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Cathryn_Fletcher ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Dee_Lowery ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Freeman_Wyatt ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Guy_Drake ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mendez_Good ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Burnett_Hogan ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jamie_Cherry ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Bird_Noble ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Burgess_Bradshaw ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Laura_Jacobson ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Blair_Sherman ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Bobbi_Hawkins ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Montoya_Anthony ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Hooper_Kirby ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Wolfe_Baird ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lamb_Graham ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Valentine_Fitzgerald ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Herminia_Mooney ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Golden_Hopkins ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lancaster_Andrews ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Elena_Sullivan ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Deana_Ramsey ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mayra_Rose ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Tina_Salinas ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sheila_Caldwell ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Hudson_Duffy ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Guzman_Douglas ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ethel_Bartlett ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Doyle_Odom ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Araceli_Castaneda ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Fuentes_Walker ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sarah_Moore ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Cheryl_Watson ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Langley_Velez ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Alisa_Morrison ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Malinda_Merritt ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lenora_Kane ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Cabrera_Curtis ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Roseann_Benjamin ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Stafford_Ray ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jewel_Trevino ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mckenzie_Woods ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jean_Conley ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Conway_Alexander ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Maryann_Joyce ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ayers_Carroll ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Bonita_Mccormick ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Kathy_Kramer ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Tonia_Bryan ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Barker_Mercer ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mcfarland_Tyson ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Meagan_Carter ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Catalina_Webb ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Moses_Sargent ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Preston_Mccall ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Christian_Clements ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jeanine_Hester ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Tonia_Espinoza ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Alyssa_Howard ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Merrill_Fulton ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jaime_Erickson ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Felicia_Skinner ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Margaret_Bray ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Etta_Cotton ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Kelley_Davidson ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Crawford_Merritt ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Kim_Buck ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Gilda_Schmidt ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mcintosh_Aguirre ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ida_Bradshaw ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jefferson_Pacheco ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Olson_Hickman ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Malinda_Mccall ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Raquel_Dejesus ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Daniel_Chambers ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Samantha_Sharp ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Robert_Herman ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Olive_Chapman ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mccoy_Blackburn ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lambert_Ferrell ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Small_Coffey ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Hicks_Daniels ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Meghan_Cabrera ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Hubbard_Hart ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Chelsea_Gallegos ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Natalie_Figueroa ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Hayes_Ward ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Graves_Mccray ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mavis_Riley ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Salas_Joseph ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Carly_Peck ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Ramirez_Blevins ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Parks_Saunders ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Leanne_Armstrong ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Kline_Stark ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Elliott_Guzman ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Liz_Baldwin ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Warner_Bullock ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Santana_Harper ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Imelda_Odonnell ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lila_Curry ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Milagros_Ellis ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Stafford_Hale ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Blevins_Cline ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Marisol_Owen ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mcintyre_Walsh ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Valarie_Silva ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Jimmie_Beck ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Amparo_Price ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Susanna_Lowery ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Flynn_Huber ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Elaine_Allen ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Gwen_Pate ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Leila_Solis ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mercedes_Heath ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Althea_Fitzpatrick ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Arlene_Morton ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mosley_Gonzales ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Torres_Hardy ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Annmarie_Petersen ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Osborn_Green ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Davenport_Dominguez ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Barton_Massey ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Holly_Bowen ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Dennis_Crawford ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Oliver_Mcleod ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vitoria
+:Vitoria rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Tameka_Orr ;
+	:nomeClube 'Vitoria' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Foster_Strickland ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Marlene_Rodgers ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Shari_Mathews ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Josie_Rasmussen ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Shelton_Walton ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Odonnell_Russell ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Elba_Le ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Sweet_Woodward ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Wilkins_Cummings ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Rogers_Noel ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Hodges_Ashley ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Curtis_Dillon ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Lelia_Oliver ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Fuentes_Rogers ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AmigosMontanha
+:AmigosMontanha rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Carole_Lindsey ;
+	:nomeClube 'AmigosMontanha' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Martinez_Johns ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Kellie_Holland ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Mathis_Kirk ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#GDGoma
+:GDGoma rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Bertha_Shelton ;
+	:nomeClube 'GDGoma' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SCBraga
+:SCBraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Bonnie_Diaz ;
+	:nomeClube 'SCBraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Becker_Talley ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Zelma_Bell ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#EDViana
+:EDViana rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Stanton_Cox ;
+	:nomeClube 'EDViana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#AVCfamalicão
+:AVCfamalicão rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Cindy_Shepherd ;
+	:nomeClube 'AVCfamalicão' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Knapp_Buckner ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ABCbraga
+:ABCbraga rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Callahan_Mitchell ;
+	:nomeClube 'ABCbraga' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACRroriz
+:ACRroriz rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Allie_Lyons ;
+	:nomeClube 'ACRroriz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#ACDRcrespos
+:ACDRcrespos rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Tammy_Bryant ;
+	:nomeClube 'ACDRcrespos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd:Clube_de_Orientação_do_Minho
+:Clube_de_Orientação_do_Minho rdf:type owl:NamedIndividual ,
+			:Clube ;
+	:temAtleta :Carissa_Rosario ;
+	:nomeClube 'Clube de Orientação do Minho' .
+
+

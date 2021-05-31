@@ -1,0 +1,29 @@
+1----------
+
+select (count( ?emd) as ?nExames) where { 
+	?emd ?p :EMD .
+} 
+
+
+2----------
+
+select (count( ?emd) as ?nExamesPositivos) where { 
+	?emd ?p :EMD ;
+      :resultado "true".
+} 
+
+
+3---------
+
+4---------
+
+5---------
+
+select (count(?edm ) as ?NumExames) where {
+	?atleta ?p :Atleta ;
+         :federado "true";
+         :temClube :GDGoma;
+         :temExame ?edm.
+} 
+
+

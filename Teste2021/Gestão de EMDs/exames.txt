@@ -1,0 +1,3001 @@
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee00725274024d5a2
+:60b3ee0ee00725274024d5a2 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Emily_Terrell ;
+	:dataEMD '2020-07-27' ;
+	:index 0 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e62b59d062f2018a3
+:60b3ee0e62b59d062f2018a3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Medina_Hartman ;
+	:dataEMD '2019-01-17' ;
+	:index 1 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e01ada8b23fc63b31
+:60b3ee0e01ada8b23fc63b31 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Andrews_Rivas ;
+	:dataEMD '2020-04-09' ;
+	:index 2 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e6ab8471af29e2014
+:60b3ee0e6ab8471af29e2014 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Marcella_Combs ;
+	:dataEMD '2020-06-12' ;
+	:index 3 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ed16d4695ffdf5f17
+:60b3ee0ed16d4695ffdf5f17 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mendoza_Buckner ;
+	:dataEMD '2019-09-13' ;
+	:index 4 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e2707c21708cc3418
+:60b3ee0e2707c21708cc3418 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sellers_Copeland ;
+	:dataEMD '2021-04-25' ;
+	:index 5 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e4a1e0233af16ac8c
+:60b3ee0e4a1e0233af16ac8c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Bernard_Stokes ;
+	:dataEMD '2020-12-29' ;
+	:index 6 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ed5225a2a93a69c3a
+:60b3ee0ed5225a2a93a69c3a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Alfreda_Raymond ;
+	:dataEMD '2021-03-04' ;
+	:index 7 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e9488e742d1600f58
+:60b3ee0e9488e742d1600f58 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Alston_Green ;
+	:dataEMD '2021-05-29' ;
+	:index 8 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ef8b2c3b732bc0d82
+:60b3ee0ef8b2c3b732bc0d82 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Paige_Mccarthy ;
+	:dataEMD '2019-10-27' ;
+	:index 9 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ec14a4ad7e917ed36
+:60b3ee0ec14a4ad7e917ed36 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Claudine_Gill ;
+	:dataEMD '2020-08-09' ;
+	:index 10 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ecf1638e25755912c
+:60b3ee0ecf1638e25755912c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Summer_Calhoun ;
+	:dataEMD '2019-12-03' ;
+	:index 11 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e2fac3611c3cd7291
+:60b3ee0e2fac3611c3cd7291 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Slater_David ;
+	:dataEMD '2020-01-22' ;
+	:index 12 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e1f3d25c518678bd7
+:60b3ee0e1f3d25c518678bd7 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ophelia_Boyd ;
+	:dataEMD '2020-09-03' ;
+	:index 13 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee62c8f8a846459ea
+:60b3ee0ee62c8f8a846459ea rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Evans_Singleton ;
+	:dataEMD '2019-08-02' ;
+	:index 14 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e0539642b38645cb3
+:60b3ee0e0539642b38645cb3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Church_Bishop ;
+	:dataEMD '2020-08-07' ;
+	:index 15 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e3f327a6ba71f77b0
+:60b3ee0e3f327a6ba71f77b0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Woodard_Bennett ;
+	:dataEMD '2019-07-13' ;
+	:index 16 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e30fc3c2042f955eb
+:60b3ee0e30fc3c2042f955eb rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Vasquez_Michael ;
+	:dataEMD '2019-09-15' ;
+	:index 17 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee90bdefcc8703185
+:60b3ee0ee90bdefcc8703185 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Holloway_Maxwell ;
+	:dataEMD '2019-09-04' ;
+	:index 18 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e559fb2fd0142f64c
+:60b3ee0e559fb2fd0142f64c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Michele_Barber ;
+	:dataEMD '2020-02-04' ;
+	:index 19 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0eb2087f8cccef830d
+:60b3ee0eb2087f8cccef830d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Chambers_Burton ;
+	:dataEMD '2020-03-01' ;
+	:index 20 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ea0dc6768a6ca7192
+:60b3ee0ea0dc6768a6ca7192 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Massey_Goodman ;
+	:dataEMD '2021-03-26' ;
+	:index 21 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee3d27702cac0b7cd
+:60b3ee0ee3d27702cac0b7cd rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Klein_Cameron ;
+	:dataEMD '2021-02-26' ;
+	:index 22 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e23a38b2da3f0a76e
+:60b3ee0e23a38b2da3f0a76e rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lambert_Mueller ;
+	:dataEMD '2020-07-11' ;
+	:index 23 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e172e761f8d52c213
+:60b3ee0e172e761f8d52c213 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ewing_Drake ;
+	:dataEMD '2021-02-15' ;
+	:index 24 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e2573d42d411cc591
+:60b3ee0e2573d42d411cc591 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lester_Manning ;
+	:dataEMD '2019-01-04' ;
+	:index 25 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee95a95d0c9bc3e5f
+:60b3ee0ee95a95d0c9bc3e5f rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Nina_Fowler ;
+	:dataEMD '2020-04-16' ;
+	:index 26 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0effaf9b013df4203d
+:60b3ee0effaf9b013df4203d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lynn_Shaw ;
+	:dataEMD '2020-07-25' ;
+	:index 27 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee3f58fda00f17cc6
+:60b3ee0ee3f58fda00f17cc6 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Betty_Blake ;
+	:dataEMD '2021-01-13' ;
+	:index 28 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee7cb2701483df2c9
+:60b3ee0ee7cb2701483df2c9 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Oneill_Roth ;
+	:dataEMD '2020-10-23' ;
+	:index 29 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e74703dea724376f8
+:60b3ee0e74703dea724376f8 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Roxanne_Miles ;
+	:dataEMD '2019-06-03' ;
+	:index 30 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ef3bfaf77b4e67849
+:60b3ee0ef3bfaf77b4e67849 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Cecelia_Adams ;
+	:dataEMD '2019-04-20' ;
+	:index 31 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e54b12900f5e6c314
+:60b3ee0e54b12900f5e6c314 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Irma_Jacobs ;
+	:dataEMD '2019-12-12' ;
+	:index 32 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ef050e91efe68a668
+:60b3ee0ef050e91efe68a668 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Angelia_Noel ;
+	:dataEMD '2020-12-23' ;
+	:index 33 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e536b83d9d562f9c8
+:60b3ee0e536b83d9d562f9c8 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sallie_Shaffer ;
+	:dataEMD '2020-06-02' ;
+	:index 34 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e6dbcbe60effe125d
+:60b3ee0e6dbcbe60effe125d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jordan_Bonner ;
+	:dataEMD '2020-06-22' ;
+	:index 35 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e8b4f7dca2601ddfc
+:60b3ee0e8b4f7dca2601ddfc rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Bartlett_Sexton ;
+	:dataEMD '2019-12-17' ;
+	:index 36 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e59411e4e9d97d70a
+:60b3ee0e59411e4e9d97d70a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Opal_Stewart ;
+	:dataEMD '2019-07-27' ;
+	:index 37 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee78616dd040e4dca
+:60b3ee0ee78616dd040e4dca rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ola_Glover ;
+	:dataEMD '2020-11-26' ;
+	:index 38 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ea3043984230726fc
+:60b3ee0ea3043984230726fc rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Shelia_York ;
+	:dataEMD '2019-11-21' ;
+	:index 39 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e242cedae88a5f12c
+:60b3ee0e242cedae88a5f12c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Raquel_Ratliff ;
+	:dataEMD '2019-07-31' ;
+	:index 40 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e846df12b8f8e750d
+:60b3ee0e846df12b8f8e750d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Burke_Weeks ;
+	:dataEMD '2019-09-14' ;
+	:index 41 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e3f165afa6f23a0eb
+:60b3ee0e3f165afa6f23a0eb rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Best_French ;
+	:dataEMD '2019-04-30' ;
+	:index 42 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e0ee0185da196c9ab
+:60b3ee0e0ee0185da196c9ab rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Fowler_Alvarez ;
+	:dataEMD '2019-10-08' ;
+	:index 43 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ecfbe9bf6149ba53b
+:60b3ee0ecfbe9bf6149ba53b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Terri_Avila ;
+	:dataEMD '2020-03-16' ;
+	:index 44 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e84beb8fe0be593a5
+:60b3ee0e84beb8fe0be593a5 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Alford_Small ;
+	:dataEMD '2019-10-14' ;
+	:index 45 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ebab436c1d23c2a84
+:60b3ee0ebab436c1d23c2a84 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Key_Arnold ;
+	:dataEMD '2020-03-01' ;
+	:index 46 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e20e993d5010857a4
+:60b3ee0e20e993d5010857a4 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Nguyen_Diaz ;
+	:dataEMD '2021-04-16' ;
+	:index 47 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee409ac878ba9b99b
+:60b3ee0ee409ac878ba9b99b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sherry_Morales ;
+	:dataEMD '2021-04-04' ;
+	:index 48 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ed7a60ecd07dadb9e
+:60b3ee0ed7a60ecd07dadb9e rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Crane_Ballard ;
+	:dataEMD '2019-09-11' ;
+	:index 49 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e07cb41f968328e60
+:60b3ee0e07cb41f968328e60 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Terry_Chaney ;
+	:dataEMD '2020-07-11' ;
+	:index 50 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee48920a886a461e2
+:60b3ee0ee48920a886a461e2 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sheppard_Bryant ;
+	:dataEMD '2019-03-04' ;
+	:index 51 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e79c5349b29557a62
+:60b3ee0e79c5349b29557a62 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Janis_Mckinney ;
+	:dataEMD '2020-11-03' ;
+	:index 52 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e3bffb9b3df6f5ea4
+:60b3ee0e3bffb9b3df6f5ea4 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sue_Waters ;
+	:dataEMD '2020-05-10' ;
+	:index 53 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e03c621784bf7b2eb
+:60b3ee0e03c621784bf7b2eb rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Cynthia_Page ;
+	:dataEMD '2019-05-30' ;
+	:index 54 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ea96d47b79642735d
+:60b3ee0ea96d47b79642735d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Montgomery_Rhodes ;
+	:dataEMD '2019-10-14' ;
+	:index 55 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e63cc2530b136daef
+:60b3ee0e63cc2530b136daef rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Claire_Joyce ;
+	:dataEMD '2021-03-22' ;
+	:index 56 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e8a311b08fca3541b
+:60b3ee0e8a311b08fca3541b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Evangelina_Key ;
+	:dataEMD '2021-04-16' ;
+	:index 57 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ea9b4c2114abcf6d7
+:60b3ee0ea9b4c2114abcf6d7 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Effie_Gibson ;
+	:dataEMD '2020-11-24' ;
+	:index 58 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e16fc834f28234ef4
+:60b3ee0e16fc834f28234ef4 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Maureen_Cobb ;
+	:dataEMD '2021-03-16' ;
+	:index 59 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0efe55045feaaea0d0
+:60b3ee0efe55045feaaea0d0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Dee_Holman ;
+	:dataEMD '2020-11-22' ;
+	:index 60 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e53dad18808565be7
+:60b3ee0e53dad18808565be7 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Larson_Morin ;
+	:dataEMD '2019-02-13' ;
+	:index 61 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e25015995bacd5bed
+:60b3ee0e25015995bacd5bed rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ursula_Martinez ;
+	:dataEMD '2021-01-29' ;
+	:index 62 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ed8819374df399b72
+:60b3ee0ed8819374df399b72 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :English_Clemons ;
+	:dataEMD '2020-10-10' ;
+	:index 63 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e47a5478e9b66110d
+:60b3ee0e47a5478e9b66110d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Stella_Jackson ;
+	:dataEMD '2020-10-28' ;
+	:index 64 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0eddf26117e9d32bcb
+:60b3ee0eddf26117e9d32bcb rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Haley_Joseph ;
+	:dataEMD '2019-05-01' ;
+	:index 65 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ebc5f8bcac6a4b89d
+:60b3ee0ebc5f8bcac6a4b89d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Kelsey_Roberts ;
+	:dataEMD '2020-04-09' ;
+	:index 66 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e9f0c3dbf2ecc854f
+:60b3ee0e9f0c3dbf2ecc854f rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Watson_Lynch ;
+	:dataEMD '2019-06-26' ;
+	:index 67 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e6cb88f8d26691e15
+:60b3ee0e6cb88f8d26691e15 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Chasity_Coffey ;
+	:dataEMD '2021-05-14' ;
+	:index 68 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e0797a9f03b138d18
+:60b3ee0e0797a9f03b138d18 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Paula_Delaney ;
+	:dataEMD '2021-02-26' ;
+	:index 69 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e769aecb50db619f2
+:60b3ee0e769aecb50db619f2 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Galloway_Sanders ;
+	:dataEMD '2019-06-27' ;
+	:index 70 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e553355b77862ea98
+:60b3ee0e553355b77862ea98 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Tina_Blankenship ;
+	:dataEMD '2021-04-12' ;
+	:index 71 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ee3bb3fd71f515d88
+:60b3ee0ee3bb3fd71f515d88 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Whitehead_Montgomery ;
+	:dataEMD '2021-04-11' ;
+	:index 72 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ed5dd8522cc53e7b0
+:60b3ee0ed5dd8522cc53e7b0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Dominguez_Chambers ;
+	:dataEMD '2021-04-22' ;
+	:index 73 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e28ab1329e2ed0888
+:60b3ee0e28ab1329e2ed0888 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Booth_Eaton ;
+	:dataEMD '2019-05-23' ;
+	:index 74 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e7524108bf9936414
+:60b3ee0e7524108bf9936414 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Joanna_Grant ;
+	:dataEMD '2019-07-14' ;
+	:index 75 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e59e86eaf9b9a5372
+:60b3ee0e59e86eaf9b9a5372 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jeri_Pearson ;
+	:dataEMD '2019-03-28' ;
+	:index 76 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e13085dc64e17e4b0
+:60b3ee0e13085dc64e17e4b0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sanchez_Mcgee ;
+	:dataEMD '2021-05-13' ;
+	:index 77 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e3d4f8a3a439f8b7a
+:60b3ee0e3d4f8a3a439f8b7a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Magdalena_Francis ;
+	:dataEMD '2019-12-02' ;
+	:index 78 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e6edaad4b8a63efae
+:60b3ee0e6edaad4b8a63efae rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Morris_Poole ;
+	:dataEMD '2021-05-19' ;
+	:index 79 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e538d62e10eba66b6
+:60b3ee0e538d62e10eba66b6 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Rodriguez_Gonzalez ;
+	:dataEMD '2021-02-16' ;
+	:index 80 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0eca6dd1525f201090
+:60b3ee0eca6dd1525f201090 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Christine_Rice ;
+	:dataEMD '2021-05-18' ;
+	:index 81 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e472001f8e05a40ee
+:60b3ee0e472001f8e05a40ee rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Valdez_Harper ;
+	:dataEMD '2020-11-10' ;
+	:index 82 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e3b279f45e79cd6fa
+:60b3ee0e3b279f45e79cd6fa rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Berta_Clay ;
+	:dataEMD '2021-04-24' ;
+	:index 83 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0eee4b8338800e6003
+:60b3ee0eee4b8338800e6003 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Bonnie_Sandoval ;
+	:dataEMD '2019-10-18' ;
+	:index 84 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e66f3d4c3cc778b1e
+:60b3ee0e66f3d4c3cc778b1e rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Stein_Wiggins ;
+	:dataEMD '2020-11-24' ;
+	:index 85 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e278b7161e71d9ceb
+:60b3ee0e278b7161e71d9ceb rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Tanya_Mcclain ;
+	:dataEMD '2020-12-08' ;
+	:index 86 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e7ded570068dce1d9
+:60b3ee0e7ded570068dce1d9 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Perry_Sanford ;
+	:dataEMD '2021-02-23' ;
+	:index 87 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e94c479068389f5e3
+:60b3ee0e94c479068389f5e3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Maxine_Rutledge ;
+	:dataEMD '2019-10-10' ;
+	:index 88 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e7ac2f667ececc242
+:60b3ee0e7ac2f667ececc242 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Tucker_Morse ;
+	:dataEMD '2020-07-01' ;
+	:index 89 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0eabfeddd7f84fd275
+:60b3ee0eabfeddd7f84fd275 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Thelma_Schmidt ;
+	:dataEMD '2020-05-17' ;
+	:index 90 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e3d51473e1b41004b
+:60b3ee0e3d51473e1b41004b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Charles_Kim ;
+	:dataEMD '2020-03-24' ;
+	:index 91 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e926c1d538dfaabd3
+:60b3ee0e926c1d538dfaabd3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Duncan_Davidson ;
+	:dataEMD '2020-01-27' ;
+	:index 92 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ea6339abf19460649
+:60b3ee0ea6339abf19460649 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Gertrude_Dillon ;
+	:dataEMD '2019-04-07' ;
+	:index 93 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e059b32a47b518e93
+:60b3ee0e059b32a47b518e93 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Brennan_Santana ;
+	:dataEMD '2019-02-06' ;
+	:index 94 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e57b3659681466acf
+:60b3ee0e57b3659681466acf rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ball_Barlow ;
+	:dataEMD '2020-11-09' ;
+	:index 95 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e651ec286b869976d
+:60b3ee0e651ec286b869976d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Oneil_Baxter ;
+	:dataEMD '2020-05-10' ;
+	:index 96 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e67043c92ce84a97c
+:60b3ee0e67043c92ce84a97c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Helena_Mayo ;
+	:dataEMD '2020-10-09' ;
+	:index 97 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0ea5d75fed720e4820
+:60b3ee0ea5d75fed720e4820 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Martin_Brewer ;
+	:dataEMD '2021-05-10' ;
+	:index 98 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee0e9dc10b681d5212b5
+:60b3ee0e9dc10b681d5212b5 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Wilder_Greene ;
+	:dataEMD '2019-10-13' ;
+	:index 99 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee817af5fb3fb1e153ef
+:60b3ee817af5fb3fb1e153ef rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Harrison_Finch ;
+	:dataEMD '2019-06-23' ;
+	:index 0 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81145de55fffb7bdfa
+:60b3ee81145de55fffb7bdfa rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jordan_Alvarez ;
+	:dataEMD '2019-01-01' ;
+	:index 1 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee811a4429c17e036357
+:60b3ee811a4429c17e036357 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lane_Norton ;
+	:dataEMD '2020-04-27' ;
+	:index 2 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8115745fe4ce8dbc5a
+:60b3ee8115745fe4ce8dbc5a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Carrillo_Munoz ;
+	:dataEMD '2020-07-06' ;
+	:index 3 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8128adc82a45f8023d
+:60b3ee8128adc82a45f8023d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Barrett_Frederick ;
+	:dataEMD '2020-06-18' ;
+	:index 4 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81525963fc4fd2cf9d
+:60b3ee81525963fc4fd2cf9d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Harmon_Stone ;
+	:dataEMD '2019-06-12' ;
+	:index 5 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e69c16cc6108e7ad
+:60b3ee81e69c16cc6108e7ad rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Chandra_Potts ;
+	:dataEMD '2021-01-18' ;
+	:index 6 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81ec958ef30a9daa8d
+:60b3ee81ec958ef30a9daa8d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :John_Warner ;
+	:dataEMD '2021-01-12' ;
+	:index 7 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee813905ebb273d5d9a0
+:60b3ee813905ebb273d5d9a0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Casey_Bowman ;
+	:dataEMD '2019-03-09' ;
+	:index 8 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8106e9b44af3270a40
+:60b3ee8106e9b44af3270a40 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mccullough_Pena ;
+	:dataEMD '2020-04-23' ;
+	:index 9 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee812f35f4ff3c2edecf
+:60b3ee812f35f4ff3c2edecf rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Brianna_Bentley ;
+	:dataEMD '2019-06-27' ;
+	:index 10 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee819d5bb33e21ff7e16
+:60b3ee819d5bb33e21ff7e16 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Nixon_Hendrix ;
+	:dataEMD '2021-02-26' ;
+	:index 11 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81ce306eb25d963bb0
+:60b3ee81ce306eb25d963bb0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Buckner_Luna ;
+	:dataEMD '2019-07-11' ;
+	:index 12 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8138f5b0173e1bc637
+:60b3ee8138f5b0173e1bc637 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Britt_Zamora ;
+	:dataEMD '2019-08-25' ;
+	:index 13 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81f5035e13f1db0069
+:60b3ee81f5035e13f1db0069 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Hendrix_Bauer ;
+	:dataEMD '2020-11-14' ;
+	:index 14 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8131597dae8f73a11b
+:60b3ee8131597dae8f73a11b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Travis_Sampson ;
+	:dataEMD '2019-10-30' ;
+	:index 15 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e32abefb2a9e8629
+:60b3ee81e32abefb2a9e8629 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Darla_Ware ;
+	:dataEMD '2019-11-22' ;
+	:index 16 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee815852d8fc2dc33e8a
+:60b3ee815852d8fc2dc33e8a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Peters_Vaughn ;
+	:dataEMD '2020-01-17' ;
+	:index 17 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee815e7f792d741f2228
+:60b3ee815e7f792d741f2228 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lawrence_Herman ;
+	:dataEMD '2020-10-25' ;
+	:index 18 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee815b7d9a126c47165d
+:60b3ee815b7d9a126c47165d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Chang_Oneill ;
+	:dataEMD '2019-07-26' ;
+	:index 19 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e769b6603a6525c6
+:60b3ee81e769b6603a6525c6 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Patrick_Mcintyre ;
+	:dataEMD '2020-12-20' ;
+	:index 20 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee815cb65367e6de0b3c
+:60b3ee815cb65367e6de0b3c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Joyce_Evans ;
+	:dataEMD '2020-01-11' ;
+	:index 21 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee813bd664873721a6a1
+:60b3ee813bd664873721a6a1 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Larsen_Villarreal ;
+	:dataEMD '2019-07-03' ;
+	:index 22 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e901a8c787b38008
+:60b3ee81e901a8c787b38008 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Morrow_Yang ;
+	:dataEMD '2020-03-09' ;
+	:index 23 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81874f8871966eedd1
+:60b3ee81874f8871966eedd1 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Dunn_Horn ;
+	:dataEMD '2021-02-04' ;
+	:index 24 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81146b3cd8954b7256
+:60b3ee81146b3cd8954b7256 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Viola_Medina ;
+	:dataEMD '2019-09-04' ;
+	:index 25 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e02e5fb35760bec3
+:60b3ee81e02e5fb35760bec3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Valdez_Barnes ;
+	:dataEMD '2021-05-14' ;
+	:index 26 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8162c5de4569ccfe2f
+:60b3ee8162c5de4569ccfe2f rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sweet_Gibbs ;
+	:dataEMD '2019-08-29' ;
+	:index 27 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81034e5cb2050e882a
+:60b3ee81034e5cb2050e882a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Addie_Hayes ;
+	:dataEMD '2019-07-17' ;
+	:index 28 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81a545dd3ccaea41b0
+:60b3ee81a545dd3ccaea41b0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :May_Holt ;
+	:dataEMD '2021-04-25' ;
+	:index 29 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee817c1ce5b6cb67302a
+:60b3ee817c1ce5b6cb67302a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Christensen_Boyd ;
+	:dataEMD '2019-12-31' ;
+	:index 30 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81cdbf91a4db1113eb
+:60b3ee81cdbf91a4db1113eb rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Workman_Franks ;
+	:dataEMD '2019-03-18' ;
+	:index 31 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81ed581129ff3b2087
+:60b3ee81ed581129ff3b2087 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lucile_Underwood ;
+	:dataEMD '2020-01-05' ;
+	:index 32 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e62094c1d0bfca5c
+:60b3ee81e62094c1d0bfca5c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Heath_Bishop ;
+	:dataEMD '2019-08-09' ;
+	:index 33 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81bc1a4f4c3bc26de1
+:60b3ee81bc1a4f4c3bc26de1 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Rosales_Mejia ;
+	:dataEMD '2019-04-12' ;
+	:index 34 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e20d4412bdf4f468
+:60b3ee81e20d4412bdf4f468 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ray_Howe ;
+	:dataEMD '2019-02-02' ;
+	:index 35 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81956a3fcc57d06c8c
+:60b3ee81956a3fcc57d06c8c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Suarez_Campbell ;
+	:dataEMD '2019-07-05' ;
+	:index 36 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8125e3c7f8ae2daa67
+:60b3ee8125e3c7f8ae2daa67 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Shaffer_Le ;
+	:dataEMD '2020-01-20' ;
+	:index 37 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81c0d4102a9f396149
+:60b3ee81c0d4102a9f396149 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Justine_Wise ;
+	:dataEMD '2019-02-08' ;
+	:index 38 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81b5064ca4e9536d3c
+:60b3ee81b5064ca4e9536d3c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Villarreal_Tucker ;
+	:dataEMD '2019-10-14' ;
+	:index 39 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8195bd88f9e936aca7
+:60b3ee8195bd88f9e936aca7 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Monica_Neal ;
+	:dataEMD '2021-04-05' ;
+	:index 40 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81864959e7fb8bc864
+:60b3ee81864959e7fb8bc864 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lloyd_Dotson ;
+	:dataEMD '2019-05-11' ;
+	:index 41 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8187b3e7d863bbaf97
+:60b3ee8187b3e7d863bbaf97 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mccray_Barker ;
+	:dataEMD '2019-01-29' ;
+	:index 42 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81afbc52a666850b8c
+:60b3ee81afbc52a666850b8c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sellers_Hunter ;
+	:dataEMD '2019-02-14' ;
+	:index 43 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81d74bfab7c22b5eaa
+:60b3ee81d74bfab7c22b5eaa rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Cathryn_Fletcher ;
+	:dataEMD '2021-01-31' ;
+	:index 44 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee810078ab3f7321a731
+:60b3ee810078ab3f7321a731 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Dee_Lowery ;
+	:dataEMD '2020-02-29' ;
+	:index 45 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81a40cc7fc63be65ad
+:60b3ee81a40cc7fc63be65ad rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Freeman_Wyatt ;
+	:dataEMD '2019-04-25' ;
+	:index 46 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81efda597f9d074638
+:60b3ee81efda597f9d074638 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Guy_Drake ;
+	:dataEMD '2020-01-09' ;
+	:index 47 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81d9e0e05421b4d08e
+:60b3ee81d9e0e05421b4d08e rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mendez_Good ;
+	:dataEMD '2019-07-01' ;
+	:index 48 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee813611a9e67c3546a3
+:60b3ee813611a9e67c3546a3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Burnett_Hogan ;
+	:dataEMD '2019-03-03' ;
+	:index 49 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee816e416ff33c21634a
+:60b3ee816e416ff33c21634a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jamie_Cherry ;
+	:dataEMD '2020-08-03' ;
+	:index 50 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81858e8c650b8d992f
+:60b3ee81858e8c650b8d992f rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Bird_Noble ;
+	:dataEMD '2019-09-06' ;
+	:index 51 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee817468bb467a39e2f8
+:60b3ee817468bb467a39e2f8 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Burgess_Bradshaw ;
+	:dataEMD '2020-08-11' ;
+	:index 52 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8117de88dc519ae9d3
+:60b3ee8117de88dc519ae9d3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Laura_Jacobson ;
+	:dataEMD '2020-10-22' ;
+	:index 53 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8160bf5c46dcb3cfa7
+:60b3ee8160bf5c46dcb3cfa7 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Blair_Sherman ;
+	:dataEMD '2020-09-06' ;
+	:index 54 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81ea2bed08bf81e861
+:60b3ee81ea2bed08bf81e861 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Bobbi_Hawkins ;
+	:dataEMD '2020-09-01' ;
+	:index 55 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81051fe3467036095a
+:60b3ee81051fe3467036095a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Montoya_Anthony ;
+	:dataEMD '2019-12-21' ;
+	:index 56 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8152ddb1911c44b96a
+:60b3ee8152ddb1911c44b96a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Hooper_Kirby ;
+	:dataEMD '2021-01-29' ;
+	:index 57 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81839f04840d199de9
+:60b3ee81839f04840d199de9 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Wolfe_Baird ;
+	:dataEMD '2020-12-30' ;
+	:index 58 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81375cc4e9aba8bc6e
+:60b3ee81375cc4e9aba8bc6e rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lamb_Graham ;
+	:dataEMD '2019-01-03' ;
+	:index 59 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81422fd173977583e5
+:60b3ee81422fd173977583e5 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Valentine_Fitzgerald ;
+	:dataEMD '2021-04-22' ;
+	:index 60 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee813c7547937e764cab
+:60b3ee813c7547937e764cab rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Herminia_Mooney ;
+	:dataEMD '2020-06-26' ;
+	:index 61 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee818db2661d700d6ea3
+:60b3ee818db2661d700d6ea3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Golden_Hopkins ;
+	:dataEMD '2019-09-08' ;
+	:index 62 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee811426bce48b453191
+:60b3ee811426bce48b453191 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lancaster_Andrews ;
+	:dataEMD '2020-12-22' ;
+	:index 63 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81d13fde44c2e74aab
+:60b3ee81d13fde44c2e74aab rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Elena_Sullivan ;
+	:dataEMD '2019-08-15' ;
+	:index 64 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81ef9b6d894223a9fd
+:60b3ee81ef9b6d894223a9fd rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Deana_Ramsey ;
+	:dataEMD '2020-04-26' ;
+	:index 65 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8154161dd7358b2e65
+:60b3ee8154161dd7358b2e65 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mayra_Rose ;
+	:dataEMD '2019-12-01' ;
+	:index 66 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81fcb5c8f9970e2899
+:60b3ee81fcb5c8f9970e2899 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Tina_Salinas ;
+	:dataEMD '2020-07-27' ;
+	:index 67 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e97e332884e1299a
+:60b3ee81e97e332884e1299a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sheila_Caldwell ;
+	:dataEMD '2020-05-24' ;
+	:index 68 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8151ebf5ddaa5ca13c
+:60b3ee8151ebf5ddaa5ca13c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Hudson_Duffy ;
+	:dataEMD '2020-01-02' ;
+	:index 69 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee818e25f41f67491f02
+:60b3ee818e25f41f67491f02 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Guzman_Douglas ;
+	:dataEMD '2021-04-22' ;
+	:index 70 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee817ca74f6cb607c6f9
+:60b3ee817ca74f6cb607c6f9 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ethel_Bartlett ;
+	:dataEMD '2019-12-09' ;
+	:index 71 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee818cd611e6bf56f2f1
+:60b3ee818cd611e6bf56f2f1 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Doyle_Odom ;
+	:dataEMD '2021-04-13' ;
+	:index 72 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81c1515414ac1fb549
+:60b3ee81c1515414ac1fb549 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Araceli_Castaneda ;
+	:dataEMD '2020-06-02' ;
+	:index 73 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81d15fe413bd86d938
+:60b3ee81d15fe413bd86d938 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Fuentes_Walker ;
+	:dataEMD '2020-06-04' ;
+	:index 74 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e2dc932e4e6f7e51
+:60b3ee81e2dc932e4e6f7e51 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sarah_Moore ;
+	:dataEMD '2019-01-09' ;
+	:index 75 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81f9666482a5c13406
+:60b3ee81f9666482a5c13406 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Cheryl_Watson ;
+	:dataEMD '2019-10-25' ;
+	:index 76 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81d7dbdba97369e927
+:60b3ee81d7dbdba97369e927 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Langley_Velez ;
+	:dataEMD '2019-04-12' ;
+	:index 77 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81e024b81dde892dd6
+:60b3ee81e024b81dde892dd6 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Alisa_Morrison ;
+	:dataEMD '2019-06-30' ;
+	:index 78 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81c5073acaa4febef6
+:60b3ee81c5073acaa4febef6 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Malinda_Merritt ;
+	:dataEMD '2019-12-29' ;
+	:index 79 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81963e6ecf70e3d586
+:60b3ee81963e6ecf70e3d586 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lenora_Kane ;
+	:dataEMD '2020-07-30' ;
+	:index 80 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8122f33125935e59d3
+:60b3ee8122f33125935e59d3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Cabrera_Curtis ;
+	:dataEMD '2021-02-25' ;
+	:index 81 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81828ee0dba6850475
+:60b3ee81828ee0dba6850475 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Roseann_Benjamin ;
+	:dataEMD '2020-05-28' ;
+	:index 82 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8152b3f05331a47645
+:60b3ee8152b3f05331a47645 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Stafford_Ray ;
+	:dataEMD '2020-04-29' ;
+	:index 83 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81411e7acd216d0bf0
+:60b3ee81411e7acd216d0bf0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jewel_Trevino ;
+	:dataEMD '2019-09-18' ;
+	:index 84 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8103ed6d19e90ce9f7
+:60b3ee8103ed6d19e90ce9f7 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mckenzie_Woods ;
+	:dataEMD '2020-09-04' ;
+	:index 85 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8182b8712a2f15e41a
+:60b3ee8182b8712a2f15e41a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jean_Conley ;
+	:dataEMD '2020-12-10' ;
+	:index 86 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee811a2021b6b24ffbc2
+:60b3ee811a2021b6b24ffbc2 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Conway_Alexander ;
+	:dataEMD '2020-09-14' ;
+	:index 87 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81c44446a9eceefd87
+:60b3ee81c44446a9eceefd87 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Maryann_Joyce ;
+	:dataEMD '2020-04-08' ;
+	:index 88 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee812d50aad901e7e243
+:60b3ee812d50aad901e7e243 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ayers_Carroll ;
+	:dataEMD '2019-07-31' ;
+	:index 89 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee816b42d22ea075aba7
+:60b3ee816b42d22ea075aba7 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Bonita_Mccormick ;
+	:dataEMD '2019-01-29' ;
+	:index 90 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee812a4b8125a96689a0
+:60b3ee812a4b8125a96689a0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Kathy_Kramer ;
+	:dataEMD '2019-04-28' ;
+	:index 91 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81b71a63346d0243e7
+:60b3ee81b71a63346d0243e7 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Tonia_Bryan ;
+	:dataEMD '2020-10-10' ;
+	:index 92 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81559385200672594d
+:60b3ee81559385200672594d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Barker_Mercer ;
+	:dataEMD '2020-02-02' ;
+	:index 93 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81a113b4cb68ef5906
+:60b3ee81a113b4cb68ef5906 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mcfarland_Tyson ;
+	:dataEMD '2019-05-19' ;
+	:index 94 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81655cc723f988a62d
+:60b3ee81655cc723f988a62d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Meagan_Carter ;
+	:dataEMD '2021-02-19' ;
+	:index 95 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee8186fff74d432c9259
+:60b3ee8186fff74d432c9259 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Catalina_Webb ;
+	:dataEMD '2019-06-25' ;
+	:index 96 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81051bf4a2138bb141
+:60b3ee81051bf4a2138bb141 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Moses_Sargent ;
+	:dataEMD '2020-10-31' ;
+	:index 97 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81c4345661feac7a9a
+:60b3ee81c4345661feac7a9a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Preston_Mccall ;
+	:dataEMD '2021-02-19' ;
+	:index 98 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3ee81451b811209c3deef
+:60b3ee81451b811209c3deef rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Christian_Clements ;
+	:dataEMD '2019-06-30' ;
+	:index 99 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb933e50bd455af89a9
+:60b3eeb933e50bd455af89a9 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jeanine_Hester ;
+	:dataEMD '2020-08-30' ;
+	:index 0 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9b701a941937c0dd8
+:60b3eeb9b701a941937c0dd8 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Tonia_Espinoza ;
+	:dataEMD '2020-08-12' ;
+	:index 1 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9fc87ff10010ae517
+:60b3eeb9fc87ff10010ae517 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Alyssa_Howard ;
+	:dataEMD '2019-08-25' ;
+	:index 2 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9e966a3cf1239840a
+:60b3eeb9e966a3cf1239840a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Merrill_Fulton ;
+	:dataEMD '2020-06-29' ;
+	:index 3 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9dbbc9f23e5c888ac
+:60b3eeb9dbbc9f23e5c888ac rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jaime_Erickson ;
+	:dataEMD '2020-11-01' ;
+	:index 4 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9425c872217db611e
+:60b3eeb9425c872217db611e rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Felicia_Skinner ;
+	:dataEMD '2019-09-09' ;
+	:index 5 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb967d2dd4be3e2c87d
+:60b3eeb967d2dd4be3e2c87d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Margaret_Bray ;
+	:dataEMD '2020-07-12' ;
+	:index 6 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb944e8f43647ed05f2
+:60b3eeb944e8f43647ed05f2 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Etta_Cotton ;
+	:dataEMD '2021-03-04' ;
+	:index 7 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9bc3d74e0cb400631
+:60b3eeb9bc3d74e0cb400631 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Kelley_Davidson ;
+	:dataEMD '2020-10-18' ;
+	:index 8 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb934a2174ec11d92a6
+:60b3eeb934a2174ec11d92a6 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Crawford_Merritt ;
+	:dataEMD '2019-08-18' ;
+	:index 9 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9fa4e587712a640d4
+:60b3eeb9fa4e587712a640d4 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Kim_Buck ;
+	:dataEMD '2020-11-04' ;
+	:index 10 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb948dd398953308f2d
+:60b3eeb948dd398953308f2d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Gilda_Schmidt ;
+	:dataEMD '2019-07-01' ;
+	:index 11 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9a2085e98659a2f5b
+:60b3eeb9a2085e98659a2f5b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mcintosh_Aguirre ;
+	:dataEMD '2019-04-09' ;
+	:index 12 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9bfd86db079523f51
+:60b3eeb9bfd86db079523f51 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ida_Bradshaw ;
+	:dataEMD '2020-11-25' ;
+	:index 13 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb98614ea36f88963ba
+:60b3eeb98614ea36f88963ba rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jefferson_Pacheco ;
+	:dataEMD '2020-04-08' ;
+	:index 14 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb910808af364c63729
+:60b3eeb910808af364c63729 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Olson_Hickman ;
+	:dataEMD '2020-12-14' ;
+	:index 15 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb939a5cb2da478d86c
+:60b3eeb939a5cb2da478d86c rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Malinda_Mccall ;
+	:dataEMD '2020-06-09' ;
+	:index 16 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb92b1debc068c42080
+:60b3eeb92b1debc068c42080 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Raquel_Dejesus ;
+	:dataEMD '2020-10-06' ;
+	:index 17 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9ec44aba1040d2e1e
+:60b3eeb9ec44aba1040d2e1e rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Daniel_Chambers ;
+	:dataEMD '2020-02-06' ;
+	:index 18 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9a9f081f26deada43
+:60b3eeb9a9f081f26deada43 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Samantha_Sharp ;
+	:dataEMD '2019-12-21' ;
+	:index 19 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9468961b15e8e1277
+:60b3eeb9468961b15e8e1277 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Robert_Herman ;
+	:dataEMD '2021-01-09' ;
+	:index 20 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9edcbd2a0befa0a74
+:60b3eeb9edcbd2a0befa0a74 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Olive_Chapman ;
+	:dataEMD '2021-02-20' ;
+	:index 21 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb97aecf09da8650e19
+:60b3eeb97aecf09da8650e19 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mccoy_Blackburn ;
+	:dataEMD '2019-04-30' ;
+	:index 22 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9d7265f5ab15e4fed
+:60b3eeb9d7265f5ab15e4fed rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lambert_Ferrell ;
+	:dataEMD '2020-12-10' ;
+	:index 23 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9217c0274b8a1022b
+:60b3eeb9217c0274b8a1022b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Small_Coffey ;
+	:dataEMD '2019-03-12' ;
+	:index 24 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9cc832d080dd2c0e0
+:60b3eeb9cc832d080dd2c0e0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Hicks_Daniels ;
+	:dataEMD '2019-05-03' ;
+	:index 25 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9bc920eef418c62ac
+:60b3eeb9bc920eef418c62ac rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Meghan_Cabrera ;
+	:dataEMD '2019-03-23' ;
+	:index 26 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9cf9c078af09a7b74
+:60b3eeb9cf9c078af09a7b74 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Hubbard_Hart ;
+	:dataEMD '2019-01-12' ;
+	:index 27 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb968346da5d651b20d
+:60b3eeb968346da5d651b20d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Chelsea_Gallegos ;
+	:dataEMD '2020-07-25' ;
+	:index 28 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb91afe89807606d176
+:60b3eeb91afe89807606d176 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Natalie_Figueroa ;
+	:dataEMD '2020-03-16' ;
+	:index 29 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9080c70a07ef5c4ac
+:60b3eeb9080c70a07ef5c4ac rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Hayes_Ward ;
+	:dataEMD '2020-11-20' ;
+	:index 30 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb96f9b421618f39954
+:60b3eeb96f9b421618f39954 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Graves_Mccray ;
+	:dataEMD '2019-10-13' ;
+	:index 31 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb90afb40019dea8a64
+:60b3eeb90afb40019dea8a64 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mavis_Riley ;
+	:dataEMD '2020-09-27' ;
+	:index 32 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb90fc3f9678fed0903
+:60b3eeb90fc3f9678fed0903 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Salas_Joseph ;
+	:dataEMD '2019-09-09' ;
+	:index 33 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9f0342bd19d6a5a39
+:60b3eeb9f0342bd19d6a5a39 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Carly_Peck ;
+	:dataEMD '2020-10-22' ;
+	:index 34 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb966fd425e94c59395
+:60b3eeb966fd425e94c59395 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Ramirez_Blevins ;
+	:dataEMD '2019-02-16' ;
+	:index 35 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb91977642e615c41e3
+:60b3eeb91977642e615c41e3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Parks_Saunders ;
+	:dataEMD '2020-12-31' ;
+	:index 36 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb93a24ff700a3928d5
+:60b3eeb93a24ff700a3928d5 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Leanne_Armstrong ;
+	:dataEMD '2021-01-13' ;
+	:index 37 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb99c434fb1a7c7c633
+:60b3eeb99c434fb1a7c7c633 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Kline_Stark ;
+	:dataEMD '2020-03-22' ;
+	:index 38 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9f430b0e9e81165c4
+:60b3eeb9f430b0e9e81165c4 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Elliott_Guzman ;
+	:dataEMD '2019-02-18' ;
+	:index 39 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb94d27b52fe1b15f19
+:60b3eeb94d27b52fe1b15f19 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Liz_Baldwin ;
+	:dataEMD '2019-08-06' ;
+	:index 40 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb91ab516aa15e1199a
+:60b3eeb91ab516aa15e1199a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Warner_Bullock ;
+	:dataEMD '2020-10-16' ;
+	:index 41 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb97b17e786bdf88e29
+:60b3eeb97b17e786bdf88e29 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Santana_Harper ;
+	:dataEMD '2019-12-18' ;
+	:index 42 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb95762eb38f4ae9a22
+:60b3eeb95762eb38f4ae9a22 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Imelda_Odonnell ;
+	:dataEMD '2019-01-18' ;
+	:index 43 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9c05f073a238c4aa6
+:60b3eeb9c05f073a238c4aa6 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lila_Curry ;
+	:dataEMD '2020-09-24' ;
+	:index 44 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9c82e74bc1831a3be
+:60b3eeb9c82e74bc1831a3be rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Milagros_Ellis ;
+	:dataEMD '2020-02-06' ;
+	:index 45 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9e81cdbbee14cab97
+:60b3eeb9e81cdbbee14cab97 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Stafford_Hale ;
+	:dataEMD '2019-07-15' ;
+	:index 46 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb983fb3181e8f43d12
+:60b3eeb983fb3181e8f43d12 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Blevins_Cline ;
+	:dataEMD '2021-05-05' ;
+	:index 47 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9817b6dc6e2848304
+:60b3eeb9817b6dc6e2848304 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Marisol_Owen ;
+	:dataEMD '2020-07-15' ;
+	:index 48 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9ab56338f42cdaf13
+:60b3eeb9ab56338f42cdaf13 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mcintyre_Walsh ;
+	:dataEMD '2020-07-02' ;
+	:index 49 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9de8d709dd3fd086f
+:60b3eeb9de8d709dd3fd086f rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Valarie_Silva ;
+	:dataEMD '2020-11-06' ;
+	:index 50 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9077997c0e212f286
+:60b3eeb9077997c0e212f286 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Jimmie_Beck ;
+	:dataEMD '2020-01-06' ;
+	:index 51 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb916caa13610b8cadf
+:60b3eeb916caa13610b8cadf rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Amparo_Price ;
+	:dataEMD '2019-08-30' ;
+	:index 52 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9c65ee38149a83dfc
+:60b3eeb9c65ee38149a83dfc rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Susanna_Lowery ;
+	:dataEMD '2021-01-24' ;
+	:index 53 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb97c9c1d91087c47a4
+:60b3eeb97c9c1d91087c47a4 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Flynn_Huber ;
+	:dataEMD '2020-08-23' ;
+	:index 54 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb97aabcddbffca43f3
+:60b3eeb97aabcddbffca43f3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Elaine_Allen ;
+	:dataEMD '2019-03-29' ;
+	:index 55 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb935b59a6c217af521
+:60b3eeb935b59a6c217af521 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Gwen_Pate ;
+	:dataEMD '2020-09-24' ;
+	:index 56 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb972a330700a58a10a
+:60b3eeb972a330700a58a10a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Leila_Solis ;
+	:dataEMD '2020-08-19' ;
+	:index 57 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9a78530cac96a3f79
+:60b3eeb9a78530cac96a3f79 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mercedes_Heath ;
+	:dataEMD '2021-04-17' ;
+	:index 58 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9235de1538781611d
+:60b3eeb9235de1538781611d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Althea_Fitzpatrick ;
+	:dataEMD '2019-05-03' ;
+	:index 59 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9f7311f86c6a33646
+:60b3eeb9f7311f86c6a33646 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Arlene_Morton ;
+	:dataEMD '2019-12-09' ;
+	:index 60 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9354e8a0e1817c201
+:60b3eeb9354e8a0e1817c201 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mosley_Gonzales ;
+	:dataEMD '2020-09-26' ;
+	:index 61 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9e6ca114d8ab96bc4
+:60b3eeb9e6ca114d8ab96bc4 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Torres_Hardy ;
+	:dataEMD '2019-08-31' ;
+	:index 62 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb945accec6f3eb9c3d
+:60b3eeb945accec6f3eb9c3d rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Annmarie_Petersen ;
+	:dataEMD '2020-12-13' ;
+	:index 63 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb92a2f391cda5b305e
+:60b3eeb92a2f391cda5b305e rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Osborn_Green ;
+	:dataEMD '2020-12-03' ;
+	:index 64 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9a57cc0f98a998c9a
+:60b3eeb9a57cc0f98a998c9a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Davenport_Dominguez ;
+	:dataEMD '2020-08-26' ;
+	:index 65 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb94b33eaa274778def
+:60b3eeb94b33eaa274778def rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Barton_Massey ;
+	:dataEMD '2019-12-20' ;
+	:index 66 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9a78fd4bfe9e36453
+:60b3eeb9a78fd4bfe9e36453 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Holly_Bowen ;
+	:dataEMD '2019-06-09' ;
+	:index 67 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9868c63b27774163f
+:60b3eeb9868c63b27774163f rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Dennis_Crawford ;
+	:dataEMD '2020-06-28' ;
+	:index 68 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9a857578bd25302db
+:60b3eeb9a857578bd25302db rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Oliver_Mcleod ;
+	:dataEMD '2019-05-25' ;
+	:index 69 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9abbaec58aed568da
+:60b3eeb9abbaec58aed568da rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Tameka_Orr ;
+	:dataEMD '2019-03-01' ;
+	:index 70 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb90d885cf3327fe6bd
+:60b3eeb90d885cf3327fe6bd rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Foster_Strickland ;
+	:dataEMD '2020-05-28' ;
+	:index 71 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb91ded4fa3db5fdf8e
+:60b3eeb91ded4fa3db5fdf8e rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Marlene_Rodgers ;
+	:dataEMD '2019-10-26' ;
+	:index 72 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb909f2540c651ec8ff
+:60b3eeb909f2540c651ec8ff rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Shari_Mathews ;
+	:dataEMD '2020-04-12' ;
+	:index 73 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb91c3038d321c60bb3
+:60b3eeb91c3038d321c60bb3 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Josie_Rasmussen ;
+	:dataEMD '2021-05-07' ;
+	:index 74 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9c4b1d5f4d4a0099b
+:60b3eeb9c4b1d5f4d4a0099b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Shelton_Walton ;
+	:dataEMD '2020-06-22' ;
+	:index 75 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9cded7ae5d2724d52
+:60b3eeb9cded7ae5d2724d52 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Odonnell_Russell ;
+	:dataEMD '2020-11-21' ;
+	:index 76 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb91485796dedd2444b
+:60b3eeb91485796dedd2444b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Elba_Le ;
+	:dataEMD '2021-02-04' ;
+	:index 77 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9fbb0206c040aa4f1
+:60b3eeb9fbb0206c040aa4f1 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Sweet_Woodward ;
+	:dataEMD '2019-10-20' ;
+	:index 78 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9ef81456a2178baca
+:60b3eeb9ef81456a2178baca rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Wilkins_Cummings ;
+	:dataEMD '2020-02-24' ;
+	:index 79 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb929306aeaff7f31a0
+:60b3eeb929306aeaff7f31a0 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Rogers_Noel ;
+	:dataEMD '2021-02-04' ;
+	:index 80 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb99d4b85092734ded4
+:60b3eeb99d4b85092734ded4 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Hodges_Ashley ;
+	:dataEMD '2021-03-08' ;
+	:index 81 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb96b4950f33f42c5b6
+:60b3eeb96b4950f33f42c5b6 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Curtis_Dillon ;
+	:dataEMD '2020-12-19' ;
+	:index 82 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9c4c935218799831f
+:60b3eeb9c4c935218799831f rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Lelia_Oliver ;
+	:dataEMD '2021-02-08' ;
+	:index 83 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb91dbe172db8fd8f61
+:60b3eeb91dbe172db8fd8f61 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Fuentes_Rogers ;
+	:dataEMD '2019-02-07' ;
+	:index 84 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9c7550e5dc5a5ddb1
+:60b3eeb9c7550e5dc5a5ddb1 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Carole_Lindsey ;
+	:dataEMD '2020-05-28' ;
+	:index 85 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb95632a2a2915ae72b
+:60b3eeb95632a2a2915ae72b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Martinez_Johns ;
+	:dataEMD '2019-07-27' ;
+	:index 86 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9af56ea737b79ac30
+:60b3eeb9af56ea737b79ac30 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Kellie_Holland ;
+	:dataEMD '2020-07-21' ;
+	:index 87 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9e387855b0de81d09
+:60b3eeb9e387855b0de81d09 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Mathis_Kirk ;
+	:dataEMD '2019-06-27' ;
+	:index 88 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb93bfe7ecd8361f659
+:60b3eeb93bfe7ecd8361f659 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Bertha_Shelton ;
+	:dataEMD '2019-10-22' ;
+	:index 89 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9860033876d65f5f7
+:60b3eeb9860033876d65f5f7 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Bonnie_Diaz ;
+	:dataEMD '2020-01-08' ;
+	:index 90 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb97a2511a770990f0f
+:60b3eeb97a2511a770990f0f rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Becker_Talley ;
+	:dataEMD '2020-08-23' ;
+	:index 91 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9080a93e404ab974a
+:60b3eeb9080a93e404ab974a rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Zelma_Bell ;
+	:dataEMD '2019-08-11' ;
+	:index 92 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb96e988bb711c0c940
+:60b3eeb96e988bb711c0c940 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Stanton_Cox ;
+	:dataEMD '2019-09-29' ;
+	:index 93 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb97d329fb5b3d7379b
+:60b3eeb97d329fb5b3d7379b rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Cindy_Shepherd ;
+	:dataEMD '2020-07-15' ;
+	:index 94 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb95b00f32d469ef4b2
+:60b3eeb95b00f32d469ef4b2 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Knapp_Buckner ;
+	:dataEMD '2020-09-20' ;
+	:index 95 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb91accf4bd8b426245
+:60b3eeb91accf4bd8b426245 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Callahan_Mitchell ;
+	:dataEMD '2020-11-27' ;
+	:index 96 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9dd4dc919156890ee
+:60b3eeb9dd4dc919156890ee rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Allie_Lyons ;
+	:dataEMD '2021-01-10' ;
+	:index 97 ;
+	:resultado 'false' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9d9f01093dc14973f
+:60b3eeb9d9f01093dc14973f rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Tammy_Bryant ;
+	:dataEMD '2020-05-08' ;
+	:index 98 ;
+	:resultado 'true' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#60b3eeb9d027f625a1b63723
+:60b3eeb9d027f625a1b63723 rdf:type owl:NamedIndividual ,
+			:EMD ;
+	:pertenceA :Carissa_Rosario ;
+	:dataEMD '2021-01-02' ;
+	:index 99 ;
+	:resultado 'true' .
+
+

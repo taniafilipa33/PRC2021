@@ -1,0 +1,2401 @@
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Emily_Terrell ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Medina_Hartman ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Andrews_Rivas ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Marcella_Combs ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mendoza_Buckner ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sellers_Copeland ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Bernard_Stokes ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Alfreda_Raymond ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Alston_Green ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Paige_Mccarthy ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Claudine_Gill ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Summer_Calhoun ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Slater_David ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ophelia_Boyd ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Evans_Singleton ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Church_Bishop ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Woodard_Bennett ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Vasquez_Michael ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Holloway_Maxwell ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Michele_Barber ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Chambers_Burton ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Massey_Goodman ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Klein_Cameron ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lambert_Mueller ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ewing_Drake ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lester_Manning ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Nina_Fowler ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lynn_Shaw ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Betty_Blake ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Oneill_Roth ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Roxanne_Miles ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Cecelia_Adams ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Irma_Jacobs ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Angelia_Noel ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sallie_Shaffer ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jordan_Bonner ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Bartlett_Sexton ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Opal_Stewart ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ola_Glover ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Shelia_York ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Raquel_Ratliff ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Burke_Weeks ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Best_French ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Fowler_Alvarez ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Terri_Avila ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Alford_Small ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Key_Arnold ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Nguyen_Diaz ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sherry_Morales ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Crane_Ballard ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Terry_Chaney ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sheppard_Bryant ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Janis_Mckinney ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sue_Waters ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Cynthia_Page ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Montgomery_Rhodes ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Claire_Joyce ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Evangelina_Key ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Effie_Gibson ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Maureen_Cobb ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Dee_Holman ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Larson_Morin ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ursula_Martinez ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :English_Clemons ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Stella_Jackson ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Haley_Joseph ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Kelsey_Roberts ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Watson_Lynch ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Chasity_Coffey ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Paula_Delaney ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Galloway_Sanders ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Tina_Blankenship ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Whitehead_Montgomery ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Dominguez_Chambers ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Booth_Eaton ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Joanna_Grant ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jeri_Pearson ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sanchez_Mcgee ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Magdalena_Francis ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Morris_Poole ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Rodriguez_Gonzalez ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Christine_Rice ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Valdez_Harper ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Berta_Clay ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Bonnie_Sandoval ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Stein_Wiggins ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Tanya_Mcclain ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Perry_Sanford ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Maxine_Rutledge ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Tucker_Morse ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Thelma_Schmidt ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Charles_Kim ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Duncan_Davidson ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Gertrude_Dillon ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Brennan_Santana ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ball_Barlow ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Oneil_Baxter ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Helena_Mayo ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Martin_Brewer ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Wilder_Greene ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Harrison_Finch ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jordan_Alvarez ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lane_Norton ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Carrillo_Munoz ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Barrett_Frederick ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Harmon_Stone ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Chandra_Potts ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :John_Warner ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Casey_Bowman ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mccullough_Pena ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Brianna_Bentley ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Nixon_Hendrix ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Buckner_Luna ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Britt_Zamora ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Hendrix_Bauer ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Travis_Sampson ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Darla_Ware ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Peters_Vaughn ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lawrence_Herman ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Chang_Oneill ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Patrick_Mcintyre ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Joyce_Evans ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Larsen_Villarreal ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Morrow_Yang ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Dunn_Horn ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Viola_Medina ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Valdez_Barnes ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sweet_Gibbs ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Addie_Hayes ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :May_Holt ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Christensen_Boyd ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Workman_Franks ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lucile_Underwood ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Heath_Bishop ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Rosales_Mejia ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ray_Howe ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Suarez_Campbell ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Shaffer_Le ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Justine_Wise ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Villarreal_Tucker ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Monica_Neal ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lloyd_Dotson ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mccray_Barker ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sellers_Hunter ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Cathryn_Fletcher ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Dee_Lowery ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Freeman_Wyatt ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Guy_Drake ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mendez_Good ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Burnett_Hogan ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jamie_Cherry ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Bird_Noble ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Burgess_Bradshaw ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Laura_Jacobson ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Blair_Sherman ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Bobbi_Hawkins ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Montoya_Anthony ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Hooper_Kirby ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Wolfe_Baird ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lamb_Graham ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Valentine_Fitzgerald ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Herminia_Mooney ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Golden_Hopkins ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lancaster_Andrews ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Elena_Sullivan ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Deana_Ramsey ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mayra_Rose ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Tina_Salinas ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sheila_Caldwell ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Hudson_Duffy ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Guzman_Douglas ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ethel_Bartlett ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Doyle_Odom ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Araceli_Castaneda ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Fuentes_Walker ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sarah_Moore ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Cheryl_Watson ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Langley_Velez ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Alisa_Morrison ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Malinda_Merritt ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lenora_Kane ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Cabrera_Curtis ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Roseann_Benjamin ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Stafford_Ray ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jewel_Trevino ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mckenzie_Woods ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jean_Conley ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Conway_Alexander ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Maryann_Joyce ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ayers_Carroll ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Bonita_Mccormick ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Kathy_Kramer ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Tonia_Bryan ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Barker_Mercer ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mcfarland_Tyson ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Meagan_Carter ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Catalina_Webb ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Moses_Sargent ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Preston_Mccall ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Christian_Clements ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jeanine_Hester ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Tonia_Espinoza ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Alyssa_Howard ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Merrill_Fulton ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jaime_Erickson ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Felicia_Skinner ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Margaret_Bray ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Etta_Cotton ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Kelley_Davidson ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Crawford_Merritt ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Kim_Buck ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Gilda_Schmidt ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mcintosh_Aguirre ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ida_Bradshaw ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jefferson_Pacheco ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Olson_Hickman ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Malinda_Mccall ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Raquel_Dejesus ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Daniel_Chambers ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Samantha_Sharp ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Robert_Herman ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Olive_Chapman ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mccoy_Blackburn ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lambert_Ferrell ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Small_Coffey ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Hicks_Daniels ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Meghan_Cabrera ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Hubbard_Hart ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Chelsea_Gallegos ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Natalie_Figueroa ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Hayes_Ward ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Graves_Mccray ;
+	:nomeModalidade 'Esgrima' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mavis_Riley ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Salas_Joseph ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Carly_Peck ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Ramirez_Blevins ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Parks_Saunders ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Leanne_Armstrong ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Kline_Stark ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Elliott_Guzman ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Liz_Baldwin ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Warner_Bullock ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Santana_Harper ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Imelda_Odonnell ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lila_Curry ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Milagros_Ellis ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Stafford_Hale ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Triatlo
+:Triatlo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Blevins_Cline ;
+	:nomeModalidade 'Triatlo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Marisol_Owen ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mcintyre_Walsh ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Valarie_Silva ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Jimmie_Beck ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Amparo_Price ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Susanna_Lowery ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Flynn_Huber ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Elaine_Allen ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Gwen_Pate ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Leila_Solis ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mercedes_Heath ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Basquetebol
+:Basquetebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Althea_Fitzpatrick ;
+	:nomeModalidade 'Basquetebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Arlene_Morton ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mosley_Gonzales ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Torres_Hardy ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Annmarie_Petersen ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Karaté
+:Karaté rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Osborn_Green ;
+	:nomeModalidade 'Karaté' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Davenport_Dominguez ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Barton_Massey ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Holly_Bowen ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Atletismo
+:Atletismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Dennis_Crawford ;
+	:nomeModalidade 'Atletismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Oliver_Mcleod ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Tameka_Orr ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patinagem
+:Patinagem rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Foster_Strickland ;
+	:nomeModalidade 'Patinagem' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Marlene_Rodgers ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Shari_Mathews ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Badminton
+:Badminton rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Josie_Rasmussen ;
+	:nomeModalidade 'Badminton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Shelton_Walton ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Odonnell_Russell ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Elba_Le ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Sweet_Woodward ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dança
+:Dança rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Wilkins_Cummings ;
+	:nomeModalidade 'Dança' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Rogers_Noel ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andebol
+:Andebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Hodges_Ashley ;
+	:nomeModalidade 'Andebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Curtis_Dillon ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Lelia_Oliver ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Fuentes_Rogers ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Carole_Lindsey ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#SUP
+:SUP rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Martinez_Johns ;
+	:nomeModalidade 'SUP' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Kellie_Holland ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Mathis_Kirk ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Orientação
+:Orientação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Bertha_Shelton ;
+	:nomeModalidade 'Orientação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ténis
+:Ténis rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Bonnie_Diaz ;
+	:nomeModalidade 'Ténis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Becker_Talley ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Zelma_Bell ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#BTT
+:BTT rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Stanton_Cox ;
+	:nomeModalidade 'BTT' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ciclismo
+:Ciclismo rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Cindy_Shepherd ;
+	:nomeModalidade 'Ciclismo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Knapp_Buckner ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parapente
+:Parapente rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Callahan_Mitchell ;
+	:nomeModalidade 'Parapente' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Equitação
+:Equitação rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Allie_Lyons ;
+	:nomeModalidade 'Equitação' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Futebol
+:Futebol rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Tammy_Bryant ;
+	:nomeModalidade 'Futebol' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Esgrima
+:Esgrima rdf:type owl:NamedIndividual ,
+			:Modalidade ;
+	:éPraticadaPor :Carissa_Rosario ;
+	:nomeModalidade 'Esgrima' .
+
+

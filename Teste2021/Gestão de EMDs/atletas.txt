@@ -1,0 +1,4501 @@
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Emily_Terrell
+:Emily_Terrell rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee0ee00725274024d5a2 ;
+	:temEmail 'emily.terrell@gdgoma.org' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 28 ;
+	:morada 'Clay' ;
+	:nomeCompleto 'Emily Terrell' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Medina_Hartman
+:Medina_Hartman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0e62b59d062f2018a3 ;
+	:temEmail 'medina.hartman@avcfamalicão.name' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Orick' ;
+	:nomeCompleto 'Medina Hartman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Andrews_Rivas
+:Andrews_Rivas rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee0e01ada8b23fc63b31 ;
+	:temEmail 'andrews.rivas@abcbraga.us' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 24 ;
+	:morada 'Saticoy' ;
+	:nomeCompleto 'Andrews Rivas' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Marcella_Combs
+:Marcella_Combs rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0e6ab8471af29e2014 ;
+	:temEmail 'marcella.combs@clube de orientação do minho.com' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Manila' ;
+	:nomeCompleto 'Marcella Combs' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mendoza_Buckner
+:Mendoza_Buckner rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee0ed16d4695ffdf5f17 ;
+	:temEmail 'mendoza.buckner@scbraga.ca' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 23 ;
+	:morada 'Brogan' ;
+	:nomeCompleto 'Mendoza Buckner' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sellers_Copeland
+:Sellers_Copeland rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0e2707c21708cc3418 ;
+	:temEmail 'sellers.copeland@clube de orientação do minho.net' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 28 ;
+	:morada 'Spelter' ;
+	:nomeCompleto 'Sellers Copeland' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Bernard_Stokes
+:Bernard_Stokes rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0e4a1e0233af16ac8c ;
+	:temEmail 'bernard.stokes@avcfamalicão.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Sussex' ;
+	:nomeCompleto 'Bernard Stokes' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Alfreda_Raymond
+:Alfreda_Raymond rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee0ed5225a2a93a69c3a ;
+	:temEmail 'alfreda.raymond@abcbraga.tv' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Sultana' ;
+	:nomeCompleto 'Alfreda Raymond' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Alston_Green
+:Alston_Green rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee0e9488e742d1600f58 ;
+	:temEmail 'alston.green@scbraga.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Thornport' ;
+	:nomeCompleto 'Alston Green' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Paige_Mccarthy
+:Paige_Mccarthy rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0ef8b2c3b732bc0d82 ;
+	:temEmail 'paige.mccarthy@acdrcrespos.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Brandywine' ;
+	:nomeCompleto 'Paige Mccarthy' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Claudine_Gill
+:Claudine_Gill rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee0ec14a4ad7e917ed36 ;
+	:temEmail 'claudine.gill@acrroriz.me' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Katonah' ;
+	:nomeCompleto 'Claudine Gill' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Summer_Calhoun
+:Summer_Calhoun rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0ecf1638e25755912c ;
+	:temEmail 'summer.calhoun@clube de orientação do minho.info' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 26 ;
+	:morada 'National' ;
+	:nomeCompleto 'Summer Calhoun' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Slater_David
+:Slater_David rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e2fac3611c3cd7291 ;
+	:temEmail 'slater.david@vitoria.org' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Chicopee' ;
+	:nomeCompleto 'Slater David' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ophelia_Boyd
+:Ophelia_Boyd rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e1f3d25c518678bd7 ;
+	:temEmail 'ophelia.boyd@amigosmontanha.name' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Chaparrito' ;
+	:nomeCompleto 'Ophelia Boyd' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Evans_Singleton
+:Evans_Singleton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0ee62c8f8a846459ea ;
+	:temEmail 'evans.singleton@clube de orientação do minho.us' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Sunwest' ;
+	:nomeCompleto 'Evans Singleton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Church_Bishop
+:Church_Bishop rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e0539642b38645cb3 ;
+	:temEmail 'church.bishop@vitoria.com' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 28 ;
+	:morada 'Vallonia' ;
+	:nomeCompleto 'Church Bishop' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Woodard_Bennett
+:Woodard_Bennett rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :EDViana ;
+	:temExame :60b3ee0e3f327a6ba71f77b0 ;
+	:temEmail 'woodard.bennett@edviana.ca' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Ruckersville' ;
+	:nomeCompleto 'Woodard Bennett' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Vasquez_Michael
+:Vasquez_Michael rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e30fc3c2042f955eb ;
+	:temEmail 'vasquez.michael@vitoria.net' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 27 ;
+	:morada 'Munjor' ;
+	:nomeCompleto 'Vasquez Michael' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Holloway_Maxwell
+:Holloway_Maxwell rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0ee90bdefcc8703185 ;
+	:temEmail 'holloway.maxwell@avcfamalicão.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Waikele' ;
+	:nomeCompleto 'Holloway Maxwell' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Michele_Barber
+:Michele_Barber rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0e559fb2fd0142f64c ;
+	:temEmail 'michele.barber@clube de orientação do minho.tv' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 27 ;
+	:morada 'Oberlin' ;
+	:nomeCompleto 'Michele Barber' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Chambers_Burton
+:Chambers_Burton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0eb2087f8cccef830d ;
+	:temEmail 'chambers.burton@vitoria.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Boling' ;
+	:nomeCompleto 'Chambers Burton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Massey_Goodman
+:Massey_Goodman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0ea0dc6768a6ca7192 ;
+	:temEmail 'massey.goodman@amigosmontanha.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Garfield' ;
+	:nomeCompleto 'Massey Goodman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Klein_Cameron
+:Klein_Cameron rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee0ee3d27702cac0b7cd ;
+	:temEmail 'klein.cameron@scbraga.me' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Twilight' ;
+	:nomeCompleto 'Klein Cameron' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lambert_Mueller
+:Lambert_Mueller rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e23a38b2da3f0a76e ;
+	:temEmail 'lambert.mueller@acdrcrespos.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Oretta' ;
+	:nomeCompleto 'Lambert Mueller' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ewing_Drake
+:Ewing_Drake rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e172e761f8d52c213 ;
+	:temEmail 'ewing.drake@acdrcrespos.org' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Nanafalia' ;
+	:nomeCompleto 'Ewing Drake' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lester_Manning
+:Lester_Manning rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e2573d42d411cc591 ;
+	:temEmail 'lester.manning@acdrcrespos.name' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Grandview' ;
+	:nomeCompleto 'Lester Manning' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Nina_Fowler
+:Nina_Fowler rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0ee95a95d0c9bc3e5f ;
+	:temEmail 'nina.fowler@amigosmontanha.us' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Turah' ;
+	:nomeCompleto 'Nina Fowler' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lynn_Shaw
+:Lynn_Shaw rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0effaf9b013df4203d ;
+	:temEmail 'lynn.shaw@clube de orientação do minho.com' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 26 ;
+	:morada 'Cutter' ;
+	:nomeCompleto 'Lynn Shaw' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Betty_Blake
+:Betty_Blake rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee0ee3f58fda00f17cc6 ;
+	:temEmail 'betty.blake@abcbraga.ca' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Teasdale' ;
+	:nomeCompleto 'Betty Blake' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Oneill_Roth
+:Oneill_Roth rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :EDViana ;
+	:temExame :60b3ee0ee7cb2701483df2c9 ;
+	:temEmail 'oneill.roth@edviana.net' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Graball' ;
+	:nomeCompleto 'Oneill Roth' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Roxanne_Miles
+:Roxanne_Miles rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e74703dea724376f8 ;
+	:temEmail 'roxanne.miles@vitoria.biz' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 26 ;
+	:morada 'Haring' ;
+	:nomeCompleto 'Roxanne Miles' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Cecelia_Adams
+:Cecelia_Adams rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0ef3bfaf77b4e67849 ;
+	:temEmail 'cecelia.adams@amigosmontanha.tv' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 28 ;
+	:morada 'Fairlee' ;
+	:nomeCompleto 'Cecelia Adams' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Irma_Jacobs
+:Irma_Jacobs rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :EDViana ;
+	:temExame :60b3ee0e54b12900f5e6c314 ;
+	:temEmail 'irma.jacobs@edviana.biz' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 27 ;
+	:morada 'Driftwood' ;
+	:nomeCompleto 'Irma Jacobs' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Angelia_Noel
+:Angelia_Noel rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :EDViana ;
+	:temExame :60b3ee0ef050e91efe68a668 ;
+	:temEmail 'angelia.noel@edviana.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Martell' ;
+	:nomeCompleto 'Angelia Noel' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sallie_Shaffer
+:Sallie_Shaffer rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0e536b83d9d562f9c8 ;
+	:temEmail 'sallie.shaffer@clube de orientação do minho.me' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Brownlee' ;
+	:nomeCompleto 'Sallie Shaffer' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jordan_Bonner
+:Jordan_Bonner rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e6dbcbe60effe125d ;
+	:temEmail 'jordan.bonner@vitoria.info' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Northchase' ;
+	:nomeCompleto 'Jordan Bonner' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Bartlett_Sexton
+:Bartlett_Sexton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee0e8b4f7dca2601ddfc ;
+	:temEmail 'bartlett.sexton@gdgoma.org' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Rehrersburg' ;
+	:nomeCompleto 'Bartlett Sexton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Opal_Stewart
+:Opal_Stewart rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0e59411e4e9d97d70a ;
+	:temEmail 'opal.stewart@avcfamalicão.name' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Dola' ;
+	:nomeCompleto 'Opal Stewart' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ola_Glover
+:Ola_Glover rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0ee78616dd040e4dca ;
+	:temEmail 'ola.glover@clube de orientação do minho.us' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 34 ;
+	:morada 'Barronett' ;
+	:nomeCompleto 'Ola Glover' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Shelia_York
+:Shelia_York rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee0ea3043984230726fc ;
+	:temEmail 'shelia.york@scbraga.com' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Escondida' ;
+	:nomeCompleto 'Shelia York' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Raquel_Ratliff
+:Raquel_Ratliff rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee0e242cedae88a5f12c ;
+	:temEmail 'raquel.ratliff@abcbraga.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Goldfield' ;
+	:nomeCompleto 'Raquel Ratliff' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Burke_Weeks
+:Burke_Weeks rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e846df12b8f8e750d ;
+	:temEmail 'burke.weeks@amigosmontanha.net' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Mapletown' ;
+	:nomeCompleto 'Burke Weeks' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Best_French
+:Best_French rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee0e3f165afa6f23a0eb ;
+	:temEmail 'best.french@gdgoma.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Longbranch' ;
+	:nomeCompleto 'Best French' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Fowler_Alvarez
+:Fowler_Alvarez rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e0ee0185da196c9ab ;
+	:temEmail 'fowler.alvarez@amigosmontanha.tv' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Choctaw' ;
+	:nomeCompleto 'Fowler Alvarez' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Terri_Avila
+:Terri_Avila rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0ecfbe9bf6149ba53b ;
+	:temEmail 'terri.avila@avcfamalicão.biz' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Crown' ;
+	:nomeCompleto 'Terri Avila' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Alford_Small
+:Alford_Small rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0e84beb8fe0be593a5 ;
+	:temEmail 'alford.small@avcfamalicão.co.uk' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 32 ;
+	:morada 'Alamo' ;
+	:nomeCompleto 'Alford Small' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Key_Arnold
+:Key_Arnold rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0ebab436c1d23c2a84 ;
+	:temEmail 'key.arnold@amigosmontanha.me' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 27 ;
+	:morada 'Orason' ;
+	:nomeCompleto 'Key Arnold' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Nguyen_Diaz
+:Nguyen_Diaz rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e20e993d5010857a4 ;
+	:temEmail 'nguyen.diaz@amigosmontanha.info' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Watchtower' ;
+	:nomeCompleto 'Nguyen Diaz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sherry_Morales
+:Sherry_Morales rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0ee409ac878ba9b99b ;
+	:temEmail 'sherry.morales@avcfamalicão.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 26 ;
+	:morada 'Waukeenah' ;
+	:nomeCompleto 'Sherry Morales' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Crane_Ballard
+:Crane_Ballard rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0ed7a60ecd07dadb9e ;
+	:temEmail 'crane.ballard@vitoria.name' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Fedora' ;
+	:nomeCompleto 'Crane Ballard' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Terry_Chaney
+:Terry_Chaney rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee0e07cb41f968328e60 ;
+	:temEmail 'terry.chaney@scbraga.us' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Blanco' ;
+	:nomeCompleto 'Terry Chaney' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sheppard_Bryant
+:Sheppard_Bryant rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0ee48920a886a461e2 ;
+	:temEmail 'sheppard.bryant@avcfamalicão.com' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 23 ;
+	:morada 'Brandermill' ;
+	:nomeCompleto 'Sheppard Bryant' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Janis_Mckinney
+:Janis_Mckinney rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee0e79c5349b29557a62 ;
+	:temEmail 'janis.mckinney@abcbraga.ca' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 28 ;
+	:morada 'Osage' ;
+	:nomeCompleto 'Janis Mckinney' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sue_Waters
+:Sue_Waters rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e3bffb9b3df6f5ea4 ;
+	:temEmail 'sue.waters@vitoria.net' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Carrizo' ;
+	:nomeCompleto 'Sue Waters' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Cynthia_Page
+:Cynthia_Page rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee0e03c621784bf7b2eb ;
+	:temEmail 'cynthia.page@acrroriz.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Forestburg' ;
+	:nomeCompleto 'Cynthia Page' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Montgomery_Rhodes
+:Montgomery_Rhodes rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0ea96d47b79642735d ;
+	:temEmail 'montgomery.rhodes@vitoria.tv' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Rivers' ;
+	:nomeCompleto 'Montgomery Rhodes' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Claire_Joyce
+:Claire_Joyce rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e63cc2530b136daef ;
+	:temEmail 'claire.joyce@acdrcrespos.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Belgreen' ;
+	:nomeCompleto 'Claire Joyce' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Evangelina_Key
+:Evangelina_Key rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e8a311b08fca3541b ;
+	:temEmail 'evangelina.key@acdrcrespos.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 26 ;
+	:morada 'Whitewater' ;
+	:nomeCompleto 'Evangelina Key' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Effie_Gibson
+:Effie_Gibson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee0ea9b4c2114abcf6d7 ;
+	:temEmail 'effie.gibson@acrroriz.me' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Virgie' ;
+	:nomeCompleto 'Effie Gibson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Maureen_Cobb
+:Maureen_Cobb rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e16fc834f28234ef4 ;
+	:temEmail 'maureen.cobb@amigosmontanha.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Venice' ;
+	:nomeCompleto 'Maureen Cobb' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dee_Holman
+:Dee_Holman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0efe55045feaaea0d0 ;
+	:temEmail 'dee.holman@avcfamalicão.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Brenton' ;
+	:nomeCompleto 'Dee Holman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Larson_Morin
+:Larson_Morin rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee0e53dad18808565be7 ;
+	:temEmail 'larson.morin@gdgoma.name' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 26 ;
+	:morada 'Summerset' ;
+	:nomeCompleto 'Larson Morin' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ursula_Martinez
+:Ursula_Martinez rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e25015995bacd5bed ;
+	:temEmail 'ursula.martinez@amigosmontanha.us' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 32 ;
+	:morada 'Lorraine' ;
+	:nomeCompleto 'Ursula Martinez' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#English_Clemons
+:English_Clemons rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee0ed8819374df399b72 ;
+	:temEmail 'english.clemons@gdgoma.com' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Ticonderoga' ;
+	:nomeCompleto 'English Clemons' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Stella_Jackson
+:Stella_Jackson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e47a5478e9b66110d ;
+	:temEmail 'stella.jackson@acdrcrespos.ca' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Kaka' ;
+	:nomeCompleto 'Stella Jackson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Haley_Joseph
+:Haley_Joseph rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0eddf26117e9d32bcb ;
+	:temEmail 'haley.joseph@avcfamalicão.net' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 28 ;
+	:morada 'Brantleyville' ;
+	:nomeCompleto 'Haley Joseph' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Kelsey_Roberts
+:Kelsey_Roberts rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0ebc5f8bcac6a4b89d ;
+	:temEmail 'kelsey.roberts@vitoria.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 28 ;
+	:morada 'Morgandale' ;
+	:nomeCompleto 'Kelsey Roberts' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Watson_Lynch
+:Watson_Lynch rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee0e9f0c3dbf2ecc854f ;
+	:temEmail 'watson.lynch@gdgoma.tv' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Fillmore' ;
+	:nomeCompleto 'Watson Lynch' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Chasity_Coffey
+:Chasity_Coffey rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :EDViana ;
+	:temExame :60b3ee0e6cb88f8d26691e15 ;
+	:temEmail 'chasity.coffey@edviana.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Kersey' ;
+	:nomeCompleto 'Chasity Coffey' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Paula_Delaney
+:Paula_Delaney rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :EDViana ;
+	:temExame :60b3ee0e0797a9f03b138d18 ;
+	:temEmail 'paula.delaney@edviana.co.uk' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Disautel' ;
+	:nomeCompleto 'Paula Delaney' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Galloway_Sanders
+:Galloway_Sanders rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee0e769aecb50db619f2 ;
+	:temEmail 'galloway.sanders@acrroriz.me' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Allendale' ;
+	:nomeCompleto 'Galloway Sanders' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Tina_Blankenship
+:Tina_Blankenship rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e553355b77862ea98 ;
+	:temEmail 'tina.blankenship@acdrcrespos.info' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Longoria' ;
+	:nomeCompleto 'Tina Blankenship' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Whitehead_Montgomery
+:Whitehead_Montgomery rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0ee3bb3fd71f515d88 ;
+	:temEmail 'whitehead.montgomery@avcfamalicão.org' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Fairview' ;
+	:nomeCompleto 'Whitehead Montgomery' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dominguez_Chambers
+:Dominguez_Chambers rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee0ed5dd8522cc53e7b0 ;
+	:temEmail 'dominguez.chambers@abcbraga.name' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Malott' ;
+	:nomeCompleto 'Dominguez Chambers' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Booth_Eaton
+:Booth_Eaton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee0e28ab1329e2ed0888 ;
+	:temEmail 'booth.eaton@scbraga.us' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Terlingua' ;
+	:nomeCompleto 'Booth Eaton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Joanna_Grant
+:Joanna_Grant rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e7524108bf9936414 ;
+	:temEmail 'joanna.grant@amigosmontanha.com' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Noblestown' ;
+	:nomeCompleto 'Joanna Grant' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jeri_Pearson
+:Jeri_Pearson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee0e59e86eaf9b9a5372 ;
+	:temEmail 'jeri.pearson@acrroriz.ca' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 29 ;
+	:morada 'Falmouth' ;
+	:nomeCompleto 'Jeri Pearson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sanchez_Mcgee
+:Sanchez_Mcgee rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e13085dc64e17e4b0 ;
+	:temEmail 'sanchez.mcgee@acdrcrespos.net' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Bascom' ;
+	:nomeCompleto 'Sanchez Mcgee' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Magdalena_Francis
+:Magdalena_Francis rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e3d4f8a3a439f8b7a ;
+	:temEmail 'magdalena.francis@acdrcrespos.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 27 ;
+	:morada 'Fostoria' ;
+	:nomeCompleto 'Magdalena Francis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Morris_Poole
+:Morris_Poole rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee0e6edaad4b8a63efae ;
+	:temEmail 'morris.poole@avcfamalicão.tv' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 34 ;
+	:morada 'Steinhatchee' ;
+	:nomeCompleto 'Morris Poole' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Rodriguez_Gonzalez
+:Rodriguez_Gonzalez rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee0e538d62e10eba66b6 ;
+	:temEmail 'rodriguez.gonzalez@gdgoma.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Coaldale' ;
+	:nomeCompleto 'Rodriguez Gonzalez' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Christine_Rice
+:Christine_Rice rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee0eca6dd1525f201090 ;
+	:temEmail 'christine.rice@gdgoma.co.uk' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Hayes' ;
+	:nomeCompleto 'Christine Rice' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Valdez_Harper
+:Valdez_Harper rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e472001f8e05a40ee ;
+	:temEmail 'valdez.harper@amigosmontanha.me' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Jacksonwald' ;
+	:nomeCompleto 'Valdez Harper' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Berta_Clay
+:Berta_Clay rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0e3b279f45e79cd6fa ;
+	:temEmail 'berta.clay@clube de orientação do minho.info' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Barclay' ;
+	:nomeCompleto 'Berta Clay' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Bonnie_Sandoval
+:Bonnie_Sandoval rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0eee4b8338800e6003 ;
+	:temEmail 'bonnie.sandoval@clube de orientação do minho.org' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Shaft' ;
+	:nomeCompleto 'Bonnie Sandoval' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Stein_Wiggins
+:Stein_Wiggins rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :EDViana ;
+	:temExame :60b3ee0e66f3d4c3cc778b1e ;
+	:temEmail 'stein.wiggins@edviana.name' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Rosine' ;
+	:nomeCompleto 'Stein Wiggins' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Tanya_Mcclain
+:Tanya_Mcclain rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee0e278b7161e71d9ceb ;
+	:temEmail 'tanya.mcclain@gdgoma.us' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 26 ;
+	:morada 'Fivepointville' ;
+	:nomeCompleto 'Tanya Mcclain' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Perry_Sanford
+:Perry_Sanford rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e7ded570068dce1d9 ;
+	:temEmail 'perry.sanford@vitoria.com' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Albany' ;
+	:nomeCompleto 'Perry Sanford' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Maxine_Rutledge
+:Maxine_Rutledge rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e94c479068389f5e3 ;
+	:temEmail 'maxine.rutledge@amigosmontanha.ca' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Caberfae' ;
+	:nomeCompleto 'Maxine Rutledge' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Tucker_Morse
+:Tucker_Morse rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee0e7ac2f667ececc242 ;
+	:temEmail 'tucker.morse@scbraga.net' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 26 ;
+	:morada 'Tyhee' ;
+	:nomeCompleto 'Tucker Morse' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Thelma_Schmidt
+:Thelma_Schmidt rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee0eabfeddd7f84fd275 ;
+	:temEmail 'thelma.schmidt@acrroriz.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 23 ;
+	:morada 'Greenfields' ;
+	:nomeCompleto 'Thelma Schmidt' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Charles_Kim
+:Charles_Kim rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee0e3d51473e1b41004b ;
+	:temEmail 'charles.kim@acdrcrespos.tv' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 24 ;
+	:morada 'Bennett' ;
+	:nomeCompleto 'Charles Kim' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Duncan_Davidson
+:Duncan_Davidson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e926c1d538dfaabd3 ;
+	:temEmail 'duncan.davidson@amigosmontanha.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Cedarville' ;
+	:nomeCompleto 'Duncan Davidson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Gertrude_Dillon
+:Gertrude_Dillon rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee0ea6339abf19460649 ;
+	:temEmail 'gertrude.dillon@acrroriz.co.uk' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 27 ;
+	:morada 'Oneida' ;
+	:nomeCompleto 'Gertrude Dillon' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Brennan_Santana
+:Brennan_Santana rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e059b32a47b518e93 ;
+	:temEmail 'brennan.santana@vitoria.me' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 29 ;
+	:morada 'Villarreal' ;
+	:nomeCompleto 'Brennan Santana' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ball_Barlow
+:Ball_Barlow rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee0e57b3659681466acf ;
+	:temEmail 'ball.barlow@amigosmontanha.info' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 28 ;
+	:morada 'Hobucken' ;
+	:nomeCompleto 'Ball Barlow' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Oneil_Baxter
+:Oneil_Baxter rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee0e651ec286b869976d ;
+	:temEmail 'oneil.baxter@clube de orientação do minho.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 24 ;
+	:morada 'Sanders' ;
+	:nomeCompleto 'Oneil Baxter' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Helena_Mayo
+:Helena_Mayo rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e67043c92ce84a97c ;
+	:temEmail 'helena.mayo@vitoria.name' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Bend' ;
+	:nomeCompleto 'Helena Mayo' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Martin_Brewer
+:Martin_Brewer rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee0ea5d75fed720e4820 ;
+	:temEmail 'martin.brewer@acrroriz.us' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Taycheedah' ;
+	:nomeCompleto 'Martin Brewer' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Wilder_Greene
+:Wilder_Greene rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee0e9dc10b681d5212b5 ;
+	:temEmail 'wilder.greene@vitoria.com' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Heil' ;
+	:nomeCompleto 'Wilder Greene' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Harrison_Finch
+:Harrison_Finch rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :EDViana ;
+	:temExame :60b3ee817af5fb3fb1e153ef ;
+	:temEmail 'harrison.finch@edviana.us' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 21 ;
+	:morada 'Harrison' ;
+	:nomeCompleto 'Harrison Finch' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jordan_Alvarez
+:Jordan_Alvarez rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :EDViana ;
+	:temExame :60b3ee81145de55fffb7bdfa ;
+	:temEmail 'jordan.alvarez@edviana.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Riviera' ;
+	:nomeCompleto 'Jordan Alvarez' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lane_Norton
+:Lane_Norton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee811a4429c17e036357 ;
+	:temEmail 'lane.norton@abcbraga.io' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Homestead' ;
+	:nomeCompleto 'Lane Norton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Carrillo_Munoz
+:Carrillo_Munoz rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee8115745fe4ce8dbc5a ;
+	:temEmail 'carrillo.munoz@scbraga.biz' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 32 ;
+	:morada 'Bordelonville' ;
+	:nomeCompleto 'Carrillo Munoz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Barrett_Frederick
+:Barrett_Frederick rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee8128adc82a45f8023d ;
+	:temEmail 'barrett.frederick@avcfamalicão.net' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Stollings' ;
+	:nomeCompleto 'Barrett Frederick' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Harmon_Stone
+:Harmon_Stone rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee81525963fc4fd2cf9d ;
+	:temEmail 'harmon.stone@amigosmontanha.com' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Idledale' ;
+	:nomeCompleto 'Harmon Stone' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Chandra_Potts
+:Chandra_Potts rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee81e69c16cc6108e7ad ;
+	:temEmail 'chandra.potts@amigosmontanha.tv' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Albany' ;
+	:nomeCompleto 'Chandra Potts' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#John_Warner
+:John_Warner rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee81ec958ef30a9daa8d ;
+	:temEmail 'john.warner@clube de orientação do minho.co.uk' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Veyo' ;
+	:nomeCompleto 'John Warner' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Casey_Bowman
+:Casey_Bowman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee813905ebb273d5d9a0 ;
+	:temEmail 'casey.bowman@abcbraga.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Tryon' ;
+	:nomeCompleto 'Casey Bowman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mccullough_Pena
+:Mccullough_Pena rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee8106e9b44af3270a40 ;
+	:temEmail 'mccullough.pena@clube de orientação do minho.name' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 27 ;
+	:morada 'Sunwest' ;
+	:nomeCompleto 'Mccullough Pena' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Brianna_Bentley
+:Brianna_Bentley rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee812f35f4ff3c2edecf ;
+	:temEmail 'brianna.bentley@acdrcrespos.org' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 28 ;
+	:morada 'Ypsilanti' ;
+	:nomeCompleto 'Brianna Bentley' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Nixon_Hendrix
+:Nixon_Hendrix rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee819d5bb33e21ff7e16 ;
+	:temEmail 'nixon.hendrix@avcfamalicão.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Bethpage' ;
+	:nomeCompleto 'Nixon Hendrix' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Buckner_Luna
+:Buckner_Luna rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :EDViana ;
+	:temExame :60b3ee81ce306eb25d963bb0 ;
+	:temEmail 'buckner.luna@edviana.us' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Veguita' ;
+	:nomeCompleto 'Buckner Luna' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Britt_Zamora
+:Britt_Zamora rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee8138f5b0173e1bc637 ;
+	:temEmail 'britt.zamora@clube de orientação do minho.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Rutherford' ;
+	:nomeCompleto 'Britt Zamora' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Hendrix_Bauer
+:Hendrix_Bauer rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee81f5035e13f1db0069 ;
+	:temEmail 'hendrix.bauer@scbraga.io' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Ryderwood' ;
+	:nomeCompleto 'Hendrix Bauer' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Travis_Sampson
+:Travis_Sampson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :EDViana ;
+	:temExame :60b3ee8131597dae8f73a11b ;
+	:temEmail 'travis.sampson@edviana.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Dotsero' ;
+	:nomeCompleto 'Travis Sampson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Darla_Ware
+:Darla_Ware rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee81e32abefb2a9e8629 ;
+	:temEmail 'darla.ware@gdgoma.net' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Villarreal' ;
+	:nomeCompleto 'Darla Ware' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Peters_Vaughn
+:Peters_Vaughn rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee815852d8fc2dc33e8a ;
+	:temEmail 'peters.vaughn@acrroriz.com' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 21 ;
+	:morada 'Brandermill' ;
+	:nomeCompleto 'Peters Vaughn' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lawrence_Herman
+:Lawrence_Herman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee815e7f792d741f2228 ;
+	:temEmail 'lawrence.herman@gdgoma.tv' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Wakulla' ;
+	:nomeCompleto 'Lawrence Herman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Chang_Oneill
+:Chang_Oneill rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :EDViana ;
+	:temExame :60b3ee815b7d9a126c47165d ;
+	:temEmail 'chang.oneill@edviana.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Falconaire' ;
+	:nomeCompleto 'Chang Oneill' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Patrick_Mcintyre
+:Patrick_Mcintyre rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :EDViana ;
+	:temExame :60b3ee81e769b6603a6525c6 ;
+	:temEmail 'patrick.mcintyre@edviana.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 21 ;
+	:morada 'Emory' ;
+	:nomeCompleto 'Patrick Mcintyre' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Joyce_Evans
+:Joyce_Evans rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee815cb65367e6de0b3c ;
+	:temEmail 'joyce.evans@amigosmontanha.name' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 27 ;
+	:morada 'Rivers' ;
+	:nomeCompleto 'Joyce Evans' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Larsen_Villarreal
+:Larsen_Villarreal rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee813bd664873721a6a1 ;
+	:temEmail 'larsen.villarreal@scbraga.org' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Dawn' ;
+	:nomeCompleto 'Larsen Villarreal' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Morrow_Yang
+:Morrow_Yang rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee81e901a8c787b38008 ;
+	:temEmail 'morrow.yang@acdrcrespos.info' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Tibbie' ;
+	:nomeCompleto 'Morrow Yang' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dunn_Horn
+:Dunn_Horn rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee81874f8871966eedd1 ;
+	:temEmail 'dunn.horn@clube de orientação do minho.us' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Ripley' ;
+	:nomeCompleto 'Dunn Horn' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Viola_Medina
+:Viola_Medina rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :EDViana ;
+	:temExame :60b3ee81146b3cd8954b7256 ;
+	:temEmail 'viola.medina@edviana.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Nipinnawasee' ;
+	:nomeCompleto 'Viola Medina' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Valdez_Barnes
+:Valdez_Barnes rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee81e02e5fb35760bec3 ;
+	:temEmail 'valdez.barnes@acdrcrespos.io' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Islandia' ;
+	:nomeCompleto 'Valdez Barnes' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sweet_Gibbs
+:Sweet_Gibbs rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee8162c5de4569ccfe2f ;
+	:temEmail 'sweet.gibbs@avcfamalicão.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Stagecoach' ;
+	:nomeCompleto 'Sweet Gibbs' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Addie_Hayes
+:Addie_Hayes rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee81034e5cb2050e882a ;
+	:temEmail 'addie.hayes@acrroriz.net' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 23 ;
+	:morada 'Bennett' ;
+	:nomeCompleto 'Addie Hayes' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#May_Holt
+:May_Holt rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee81a545dd3ccaea41b0 ;
+	:temEmail 'may.holt@amigosmontanha.com' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Springdale' ;
+	:nomeCompleto 'May Holt' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Christensen_Boyd
+:Christensen_Boyd rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee817c1ce5b6cb67302a ;
+	:temEmail 'christensen.boyd@abcbraga.tv' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 34 ;
+	:morada 'Wells' ;
+	:nomeCompleto 'Christensen Boyd' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Workman_Franks
+:Workman_Franks rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee81cdbf91a4db1113eb ;
+	:temEmail 'workman.franks@amigosmontanha.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Greenfields' ;
+	:nomeCompleto 'Workman Franks' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lucile_Underwood
+:Lucile_Underwood rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee81ed581129ff3b2087 ;
+	:temEmail 'lucile.underwood@avcfamalicão.ca' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Innsbrook' ;
+	:nomeCompleto 'Lucile Underwood' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Heath_Bishop
+:Heath_Bishop rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee81e62094c1d0bfca5c ;
+	:temEmail 'heath.bishop@amigosmontanha.name' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 32 ;
+	:morada 'Grantville' ;
+	:nomeCompleto 'Heath Bishop' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Rosales_Mejia
+:Rosales_Mejia rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee81bc1a4f4c3bc26de1 ;
+	:temEmail 'rosales.mejia@clube de orientação do minho.org' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Dale' ;
+	:nomeCompleto 'Rosales Mejia' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ray_Howe
+:Ray_Howe rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee81e20d4412bdf4f468 ;
+	:temEmail 'ray.howe@vitoria.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Nicut' ;
+	:nomeCompleto 'Ray Howe' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Suarez_Campbell
+:Suarez_Campbell rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee81956a3fcc57d06c8c ;
+	:temEmail 'suarez.campbell@acdrcrespos.us' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Hamilton' ;
+	:nomeCompleto 'Suarez Campbell' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Shaffer_Le
+:Shaffer_Le rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee8125e3c7f8ae2daa67 ;
+	:temEmail 'shaffer.le@avcfamalicão.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Shepardsville' ;
+	:nomeCompleto 'Shaffer Le' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Justine_Wise
+:Justine_Wise rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee81c0d4102a9f396149 ;
+	:temEmail 'justine.wise@avcfamalicão.io' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Hondah' ;
+	:nomeCompleto 'Justine Wise' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Villarreal_Tucker
+:Villarreal_Tucker rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee81b5064ca4e9536d3c ;
+	:temEmail 'villarreal.tucker@avcfamalicão.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 23 ;
+	:morada 'Tecolotito' ;
+	:nomeCompleto 'Villarreal Tucker' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Monica_Neal
+:Monica_Neal rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee8195bd88f9e936aca7 ;
+	:temEmail 'monica.neal@acrroriz.net' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Roberts' ;
+	:nomeCompleto 'Monica Neal' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lloyd_Dotson
+:Lloyd_Dotson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee81864959e7fb8bc864 ;
+	:temEmail 'lloyd.dotson@abcbraga.com' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Winesburg' ;
+	:nomeCompleto 'Lloyd Dotson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mccray_Barker
+:Mccray_Barker rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee8187b3e7d863bbaf97 ;
+	:temEmail 'mccray.barker@vitoria.tv' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Blairstown' ;
+	:nomeCompleto 'Mccray Barker' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sellers_Hunter
+:Sellers_Hunter rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee81afbc52a666850b8c ;
+	:temEmail 'sellers.hunter@scbraga.co.uk' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Omar' ;
+	:nomeCompleto 'Sellers Hunter' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Cathryn_Fletcher
+:Cathryn_Fletcher rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee81d74bfab7c22b5eaa ;
+	:temEmail 'cathryn.fletcher@clube de orientação do minho.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 29 ;
+	:morada 'Oasis' ;
+	:nomeCompleto 'Cathryn Fletcher' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dee_Lowery
+:Dee_Lowery rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee810078ab3f7321a731 ;
+	:temEmail 'dee.lowery@vitoria.name' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 21 ;
+	:morada 'Rodman' ;
+	:nomeCompleto 'Dee Lowery' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Freeman_Wyatt
+:Freeman_Wyatt rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee81a40cc7fc63be65ad ;
+	:temEmail 'freeman.wyatt@acrroriz.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 26 ;
+	:morada 'Bentonville' ;
+	:nomeCompleto 'Freeman Wyatt' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Guy_Drake
+:Guy_Drake rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee81efda597f9d074638 ;
+	:temEmail 'guy.drake@abcbraga.info' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Helen' ;
+	:nomeCompleto 'Guy Drake' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mendez_Good
+:Mendez_Good rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee81d9e0e05421b4d08e ;
+	:temEmail 'mendez.good@clube de orientação do minho.us' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Westmoreland' ;
+	:nomeCompleto 'Mendez Good' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Burnett_Hogan
+:Burnett_Hogan rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee813611a9e67c3546a3 ;
+	:temEmail 'burnett.hogan@acrroriz.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Valmy' ;
+	:nomeCompleto 'Burnett Hogan' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jamie_Cherry
+:Jamie_Cherry rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee816e416ff33c21634a ;
+	:temEmail 'jamie.cherry@abcbraga.io' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Forbestown' ;
+	:nomeCompleto 'Jamie Cherry' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Bird_Noble
+:Bird_Noble rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee81858e8c650b8d992f ;
+	:temEmail 'bird.noble@acrroriz.biz' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 21 ;
+	:morada 'Lafferty' ;
+	:nomeCompleto 'Bird Noble' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Burgess_Bradshaw
+:Burgess_Bradshaw rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee817468bb467a39e2f8 ;
+	:temEmail 'burgess.bradshaw@abcbraga.net' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Bluffview' ;
+	:nomeCompleto 'Burgess Bradshaw' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Laura_Jacobson
+:Laura_Jacobson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee8117de88dc519ae9d3 ;
+	:temEmail 'laura.jacobson@acrroriz.com' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 27 ;
+	:morada 'Kirk' ;
+	:nomeCompleto 'Laura Jacobson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Blair_Sherman
+:Blair_Sherman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee8160bf5c46dcb3cfa7 ;
+	:temEmail 'blair.sherman@scbraga.tv' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Waukeenah' ;
+	:nomeCompleto 'Blair Sherman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Bobbi_Hawkins
+:Bobbi_Hawkins rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee81ea2bed08bf81e861 ;
+	:temEmail 'bobbi.hawkins@scbraga.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 26 ;
+	:morada 'Takilma' ;
+	:nomeCompleto 'Bobbi Hawkins' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Montoya_Anthony
+:Montoya_Anthony rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee81051fe3467036095a ;
+	:temEmail 'montoya.anthony@acrroriz.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Clara' ;
+	:nomeCompleto 'Montoya Anthony' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Hooper_Kirby
+:Hooper_Kirby rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee8152ddb1911c44b96a ;
+	:temEmail 'hooper.kirby@acrroriz.name' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 26 ;
+	:morada 'Roosevelt' ;
+	:nomeCompleto 'Hooper Kirby' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Wolfe_Baird
+:Wolfe_Baird rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee81839f04840d199de9 ;
+	:temEmail 'wolfe.baird@avcfamalicão.org' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 24 ;
+	:morada 'Faxon' ;
+	:nomeCompleto 'Wolfe Baird' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lamb_Graham
+:Lamb_Graham rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee81375cc4e9aba8bc6e ;
+	:temEmail 'lamb.graham@avcfamalicão.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Bluetown' ;
+	:nomeCompleto 'Lamb Graham' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Valentine_Fitzgerald
+:Valentine_Fitzgerald rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee81422fd173977583e5 ;
+	:temEmail 'valentine.fitzgerald@abcbraga.us' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Kersey' ;
+	:nomeCompleto 'Valentine Fitzgerald' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Herminia_Mooney
+:Herminia_Mooney rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee813c7547937e764cab ;
+	:temEmail 'herminia.mooney@amigosmontanha.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Matheny' ;
+	:nomeCompleto 'Herminia Mooney' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Golden_Hopkins
+:Golden_Hopkins rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee818db2661d700d6ea3 ;
+	:temEmail 'golden.hopkins@avcfamalicão.io' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Courtland' ;
+	:nomeCompleto 'Golden Hopkins' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lancaster_Andrews
+:Lancaster_Andrews rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee811426bce48b453191 ;
+	:temEmail 'lancaster.andrews@vitoria.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Longoria' ;
+	:nomeCompleto 'Lancaster Andrews' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Elena_Sullivan
+:Elena_Sullivan rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3ee81d13fde44c2e74aab ;
+	:temEmail 'elena.sullivan@clube de orientação do minho.net' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 28 ;
+	:morada 'Leola' ;
+	:nomeCompleto 'Elena Sullivan' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Deana_Ramsey
+:Deana_Ramsey rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee81ef9b6d894223a9fd ;
+	:temEmail 'deana.ramsey@acrroriz.com' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 23 ;
+	:morada 'Gila' ;
+	:nomeCompleto 'Deana Ramsey' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mayra_Rose
+:Mayra_Rose rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee8154161dd7358b2e65 ;
+	:temEmail 'mayra.rose@acdrcrespos.tv' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Calpine' ;
+	:nomeCompleto 'Mayra Rose' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Tina_Salinas
+:Tina_Salinas rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :Vitoria ;
+	:temExame :60b3ee81fcb5c8f9970e2899 ;
+	:temEmail 'tina.salinas@vitoria.co.uk' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 29 ;
+	:morada 'Welda' ;
+	:nomeCompleto 'Tina Salinas' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sheila_Caldwell
+:Sheila_Caldwell rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee81e97e332884e1299a ;
+	:temEmail 'sheila.caldwell@avcfamalicão.ca' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Leroy' ;
+	:nomeCompleto 'Sheila Caldwell' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Hudson_Duffy
+:Hudson_Duffy rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :EDViana ;
+	:temExame :60b3ee8151ebf5ddaa5ca13c ;
+	:temEmail 'hudson.duffy@edviana.name' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Whitestone' ;
+	:nomeCompleto 'Hudson Duffy' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Guzman_Douglas
+:Guzman_Douglas rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee818e25f41f67491f02 ;
+	:temEmail 'guzman.douglas@abcbraga.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 21 ;
+	:morada 'Alderpoint' ;
+	:nomeCompleto 'Guzman Douglas' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ethel_Bartlett
+:Ethel_Bartlett rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee817ca74f6cb607c6f9 ;
+	:temEmail 'ethel.bartlett@acrroriz.info' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 26 ;
+	:morada 'Muir' ;
+	:nomeCompleto 'Ethel Bartlett' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Doyle_Odom
+:Doyle_Odom rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee818cd611e6bf56f2f1 ;
+	:temEmail 'doyle.odom@amigosmontanha.us' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Newry' ;
+	:nomeCompleto 'Doyle Odom' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Araceli_Castaneda
+:Araceli_Castaneda rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee81c1515414ac1fb549 ;
+	:temEmail 'araceli.castaneda@avcfamalicão.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 28 ;
+	:morada 'Magnolia' ;
+	:nomeCompleto 'Araceli Castaneda' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Fuentes_Walker
+:Fuentes_Walker rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee81d15fe413bd86d938 ;
+	:temEmail 'fuentes.walker@scbraga.io' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Leming' ;
+	:nomeCompleto 'Fuentes Walker' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sarah_Moore
+:Sarah_Moore rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee81e2dc932e4e6f7e51 ;
+	:temEmail 'sarah.moore@acdrcrespos.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Morgandale' ;
+	:nomeCompleto 'Sarah Moore' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Cheryl_Watson
+:Cheryl_Watson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee81f9666482a5c13406 ;
+	:temEmail 'cheryl.watson@gdgoma.net' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Fairview' ;
+	:nomeCompleto 'Cheryl Watson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Langley_Velez
+:Langley_Velez rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee81d7dbdba97369e927 ;
+	:temEmail 'langley.velez@acrroriz.com' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Neahkahnie' ;
+	:nomeCompleto 'Langley Velez' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Alisa_Morrison
+:Alisa_Morrison rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee81e024b81dde892dd6 ;
+	:temEmail 'alisa.morrison@gdgoma.tv' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 26 ;
+	:morada 'Kiskimere' ;
+	:nomeCompleto 'Alisa Morrison' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Malinda_Merritt
+:Malinda_Merritt rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee81c5073acaa4febef6 ;
+	:temEmail 'malinda.merritt@abcbraga.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Cecilia' ;
+	:nomeCompleto 'Malinda Merritt' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lenora_Kane
+:Lenora_Kane rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee81963e6ecf70e3d586 ;
+	:temEmail 'lenora.kane@abcbraga.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Axis' ;
+	:nomeCompleto 'Lenora Kane' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Cabrera_Curtis
+:Cabrera_Curtis rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee8122f33125935e59d3 ;
+	:temEmail 'cabrera.curtis@avcfamalicão.name' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Beechmont' ;
+	:nomeCompleto 'Cabrera Curtis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Roseann_Benjamin
+:Roseann_Benjamin rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee81828ee0dba6850475 ;
+	:temEmail 'roseann.benjamin@abcbraga.org' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 21 ;
+	:morada 'Stewart' ;
+	:nomeCompleto 'Roseann Benjamin' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Stafford_Ray
+:Stafford_Ray rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee8152b3f05331a47645 ;
+	:temEmail 'stafford.ray@acdrcrespos.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Zeba' ;
+	:nomeCompleto 'Stafford Ray' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jewel_Trevino
+:Jewel_Trevino rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee81411e7acd216d0bf0 ;
+	:temEmail 'jewel.trevino@acrroriz.us' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 29 ;
+	:morada 'Garnet' ;
+	:nomeCompleto 'Jewel Trevino' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mckenzie_Woods
+:Mckenzie_Woods rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :ACRroriz ;
+	:temExame :60b3ee8103ed6d19e90ce9f7 ;
+	:temEmail 'mckenzie.woods@acrroriz.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Craig' ;
+	:nomeCompleto 'Mckenzie Woods' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jean_Conley
+:Jean_Conley rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee8182b8712a2f15e41a ;
+	:temEmail 'jean.conley@gdgoma.io' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Tilleda' ;
+	:nomeCompleto 'Jean Conley' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Conway_Alexander
+:Conway_Alexander rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee811a2021b6b24ffbc2 ;
+	:temEmail 'conway.alexander@scbraga.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Darrtown' ;
+	:nomeCompleto 'Conway Alexander' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Maryann_Joyce
+:Maryann_Joyce rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee81c44446a9eceefd87 ;
+	:temEmail 'maryann.joyce@acdrcrespos.net' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 21 ;
+	:morada 'Harmon' ;
+	:nomeCompleto 'Maryann Joyce' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ayers_Carroll
+:Ayers_Carroll rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee812d50aad901e7e243 ;
+	:temEmail 'ayers.carroll@gdgoma.com' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Sylvanite' ;
+	:nomeCompleto 'Ayers Carroll' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Bonita_Mccormick
+:Bonita_Mccormick rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :GDGoma ;
+	:temExame :60b3ee816b42d22ea075aba7 ;
+	:temEmail 'bonita.mccormick@gdgoma.tv' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Marshall' ;
+	:nomeCompleto 'Bonita Mccormick' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Kathy_Kramer
+:Kathy_Kramer rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :EDViana ;
+	:temExame :60b3ee812a4b8125a96689a0 ;
+	:temEmail 'kathy.kramer@edviana.co.uk' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 24 ;
+	:morada 'Williams' ;
+	:nomeCompleto 'Kathy Kramer' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Tonia_Bryan
+:Tonia_Bryan rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :EDViana ;
+	:temExame :60b3ee81b71a63346d0243e7 ;
+	:temEmail 'tonia.bryan@edviana.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Corinne' ;
+	:nomeCompleto 'Tonia Bryan' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Barker_Mercer
+:Barker_Mercer rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee81559385200672594d ;
+	:temEmail 'barker.mercer@avcfamalicão.name' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 34 ;
+	:morada 'Grayhawk' ;
+	:nomeCompleto 'Barker Mercer' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mcfarland_Tyson
+:Mcfarland_Tyson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3ee81a113b4cb68ef5906 ;
+	:temEmail 'mcfarland.tyson@amigosmontanha.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Kula' ;
+	:nomeCompleto 'Mcfarland Tyson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Meagan_Carter
+:Meagan_Carter rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :SCBraga ;
+	:temExame :60b3ee81655cc723f988a62d ;
+	:temEmail 'meagan.carter@scbraga.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Martinsville' ;
+	:nomeCompleto 'Meagan Carter' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Catalina_Webb
+:Catalina_Webb rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee8186fff74d432c9259 ;
+	:temEmail 'catalina.webb@abcbraga.us' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Aurora' ;
+	:nomeCompleto 'Catalina Webb' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Moses_Sargent
+:Moses_Sargent rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :ABCbraga ;
+	:temExame :60b3ee81051bf4a2138bb141 ;
+	:temEmail 'moses.sargent@abcbraga.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Wildwood' ;
+	:nomeCompleto 'Moses Sargent' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Preston_Mccall
+:Preston_Mccall rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3ee81c4345661feac7a9a ;
+	:temEmail 'preston.mccall@avcfamalicão.io' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Mathews' ;
+	:nomeCompleto 'Preston Mccall' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Christian_Clements
+:Christian_Clements rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3ee81451b811209c3deef ;
+	:temEmail 'christian.clements@acdrcrespos.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Cochranville' ;
+	:nomeCompleto 'Christian Clements' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jeanine_Hester
+:Jeanine_Hester rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb933e50bd455af89a9 ;
+	:temEmail 'jeanine.hester@avcfamalicão.name' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Baden' ;
+	:nomeCompleto 'Jeanine Hester' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Tonia_Espinoza
+:Tonia_Espinoza rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb9b701a941937c0dd8 ;
+	:temEmail 'tonia.espinoza@avcfamalicão.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 24 ;
+	:morada 'Fillmore' ;
+	:nomeCompleto 'Tonia Espinoza' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Alyssa_Howard
+:Alyssa_Howard rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb9fc87ff10010ae517 ;
+	:temEmail 'alyssa.howard@scbraga.info' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 26 ;
+	:morada 'Conestoga' ;
+	:nomeCompleto 'Alyssa Howard' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Merrill_Fulton
+:Merrill_Fulton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb9e966a3cf1239840a ;
+	:temEmail 'merrill.fulton@amigosmontanha.org' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Berlin' ;
+	:nomeCompleto 'Merrill Fulton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jaime_Erickson
+:Jaime_Erickson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :ABCbraga ;
+	:temExame :60b3eeb9dbbc9f23e5c888ac ;
+	:temEmail 'jaime.erickson@abcbraga.co.uk' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Yardville' ;
+	:nomeCompleto 'Jaime Erickson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Felicia_Skinner
+:Felicia_Skinner rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb9425c872217db611e ;
+	:temEmail 'felicia.skinner@acdrcrespos.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Rosburg' ;
+	:nomeCompleto 'Felicia Skinner' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Margaret_Bray
+:Margaret_Bray rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb967d2dd4be3e2c87d ;
+	:temEmail 'margaret.bray@clube de orientação do minho.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Sardis' ;
+	:nomeCompleto 'Margaret Bray' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Etta_Cotton
+:Etta_Cotton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb944e8f43647ed05f2 ;
+	:temEmail 'etta.cotton@avcfamalicão.us' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Graniteville' ;
+	:nomeCompleto 'Etta Cotton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Kelley_Davidson
+:Kelley_Davidson rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb9bc3d74e0cb400631 ;
+	:temEmail 'kelley.davidson@avcfamalicão.com' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Ruckersville' ;
+	:nomeCompleto 'Kelley Davidson' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Crawford_Merritt
+:Crawford_Merritt rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb934a2174ec11d92a6 ;
+	:temEmail 'crawford.merritt@scbraga.net' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 27 ;
+	:morada 'Roy' ;
+	:nomeCompleto 'Crawford Merritt' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Kim_Buck
+:Kim_Buck rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb9fa4e587712a640d4 ;
+	:temEmail 'kim.buck@avcfamalicão.tv' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Rosine' ;
+	:nomeCompleto 'Kim Buck' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Gilda_Schmidt
+:Gilda_Schmidt rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb948dd398953308f2d ;
+	:temEmail 'gilda.schmidt@scbraga.me' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 29 ;
+	:morada 'Enoree' ;
+	:nomeCompleto 'Gilda Schmidt' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mcintosh_Aguirre
+:Mcintosh_Aguirre rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :Vitoria ;
+	:temExame :60b3eeb9a2085e98659a2f5b ;
+	:temEmail 'mcintosh.aguirre@vitoria.name' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Emory' ;
+	:nomeCompleto 'Mcintosh Aguirre' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ida_Bradshaw
+:Ida_Bradshaw rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb9bfd86db079523f51 ;
+	:temEmail 'ida.bradshaw@clube de orientação do minho.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 21 ;
+	:morada 'Lowgap' ;
+	:nomeCompleto 'Ida Bradshaw' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jefferson_Pacheco
+:Jefferson_Pacheco rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :EDViana ;
+	:temExame :60b3eeb98614ea36f88963ba ;
+	:temEmail 'jefferson.pacheco@edviana.info' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Strykersville' ;
+	:nomeCompleto 'Jefferson Pacheco' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Olson_Hickman
+:Olson_Hickman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :ACRroriz ;
+	:temExame :60b3eeb910808af364c63729 ;
+	:temEmail 'olson.hickman@acrroriz.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Madrid' ;
+	:nomeCompleto 'Olson Hickman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Malinda_Mccall
+:Malinda_Mccall rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb939a5cb2da478d86c ;
+	:temEmail 'malinda.mccall@scbraga.co.uk' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Winchester' ;
+	:nomeCompleto 'Malinda Mccall' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Raquel_Dejesus
+:Raquel_Dejesus rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :ACRroriz ;
+	:temExame :60b3eeb92b1debc068c42080 ;
+	:temEmail 'raquel.dejesus@acrroriz.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Greenfields' ;
+	:nomeCompleto 'Raquel Dejesus' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Daniel_Chambers
+:Daniel_Chambers rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :GDGoma ;
+	:temExame :60b3eeb9ec44aba1040d2e1e ;
+	:temEmail 'daniel.chambers@gdgoma.biz' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Nicholson' ;
+	:nomeCompleto 'Daniel Chambers' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Samantha_Sharp
+:Samantha_Sharp rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :ACRroriz ;
+	:temExame :60b3eeb9a9f081f26deada43 ;
+	:temEmail 'samantha.sharp@acrroriz.us' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Elliott' ;
+	:nomeCompleto 'Samantha Sharp' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Robert_Herman
+:Robert_Herman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb9468961b15e8e1277 ;
+	:temEmail 'robert.herman@clube de orientação do minho.com' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Weogufka' ;
+	:nomeCompleto 'Robert Herman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Olive_Chapman
+:Olive_Chapman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb9edcbd2a0befa0a74 ;
+	:temEmail 'olive.chapman@avcfamalicão.net' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Wikieup' ;
+	:nomeCompleto 'Olive Chapman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mccoy_Blackburn
+:Mccoy_Blackburn rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb97aecf09da8650e19 ;
+	:temEmail 'mccoy.blackburn@amigosmontanha.tv' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Osmond' ;
+	:nomeCompleto 'Mccoy Blackburn' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lambert_Ferrell
+:Lambert_Ferrell rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :Vitoria ;
+	:temExame :60b3eeb9d7265f5ab15e4fed ;
+	:temEmail 'lambert.ferrell@vitoria.me' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Rowe' ;
+	:nomeCompleto 'Lambert Ferrell' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Small_Coffey
+:Small_Coffey rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :Vitoria ;
+	:temExame :60b3eeb9217c0274b8a1022b ;
+	:temEmail 'small.coffey@vitoria.name' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Waumandee' ;
+	:nomeCompleto 'Small Coffey' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Hicks_Daniels
+:Hicks_Daniels rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :ABCbraga ;
+	:temExame :60b3eeb9cc832d080dd2c0e0 ;
+	:temEmail 'hicks.daniels@abcbraga.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 32 ;
+	:morada 'Frizzleburg' ;
+	:nomeCompleto 'Hicks Daniels' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Meghan_Cabrera
+:Meghan_Cabrera rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :EDViana ;
+	:temExame :60b3eeb9bc920eef418c62ac ;
+	:temEmail 'meghan.cabrera@edviana.info' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 28 ;
+	:morada 'Shawmut' ;
+	:nomeCompleto 'Meghan Cabrera' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Hubbard_Hart
+:Hubbard_Hart rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :GDGoma ;
+	:temExame :60b3eeb9cf9c078af09a7b74 ;
+	:temEmail 'hubbard.hart@gdgoma.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Trucksville' ;
+	:nomeCompleto 'Hubbard Hart' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Chelsea_Gallegos
+:Chelsea_Gallegos rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb968346da5d651b20d ;
+	:temEmail 'chelsea.gallegos@avcfamalicão.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Warren' ;
+	:nomeCompleto 'Chelsea Gallegos' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Natalie_Figueroa
+:Natalie_Figueroa rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb91afe89807606d176 ;
+	:temEmail 'natalie.figueroa@clube de orientação do minho.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Jugtown' ;
+	:nomeCompleto 'Natalie Figueroa' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Hayes_Ward
+:Hayes_Ward rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :EDViana ;
+	:temExame :60b3eeb9080c70a07ef5c4ac ;
+	:temEmail 'hayes.ward@edviana.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Accoville' ;
+	:nomeCompleto 'Hayes Ward' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Graves_Mccray
+:Graves_Mccray rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :ABCbraga ;
+	:temExame :60b3eeb96f9b421618f39954 ;
+	:temEmail 'graves.mccray@abcbraga.us' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Kipp' ;
+	:nomeCompleto 'Graves Mccray' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mavis_Riley
+:Mavis_Riley rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb90afb40019dea8a64 ;
+	:temEmail 'mavis.riley@amigosmontanha.com' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Nescatunga' ;
+	:nomeCompleto 'Mavis Riley' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Salas_Joseph
+:Salas_Joseph rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb90fc3f9678fed0903 ;
+	:temEmail 'salas.joseph@amigosmontanha.net' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Greenwich' ;
+	:nomeCompleto 'Salas Joseph' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Carly_Peck
+:Carly_Peck rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :EDViana ;
+	:temExame :60b3eeb9f0342bd19d6a5a39 ;
+	:temEmail 'carly.peck@edviana.tv' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Byrnedale' ;
+	:nomeCompleto 'Carly Peck' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Ramirez_Blevins
+:Ramirez_Blevins rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :Vitoria ;
+	:temExame :60b3eeb966fd425e94c59395 ;
+	:temEmail 'ramirez.blevins@vitoria.me' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Bluetown' ;
+	:nomeCompleto 'Ramirez Blevins' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Parks_Saunders
+:Parks_Saunders rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb91977642e615c41e3 ;
+	:temEmail 'parks.saunders@clube de orientação do minho.name' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 32 ;
+	:morada 'Sheatown' ;
+	:nomeCompleto 'Parks Saunders' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Leanne_Armstrong
+:Leanne_Armstrong rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb93a24ff700a3928d5 ;
+	:temEmail 'leanne.armstrong@amigosmontanha.ca' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 28 ;
+	:morada 'Cochranville' ;
+	:nomeCompleto 'Leanne Armstrong' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Kline_Stark
+:Kline_Stark rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb99c434fb1a7c7c633 ;
+	:temEmail 'kline.stark@avcfamalicão.info' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Tedrow' ;
+	:nomeCompleto 'Kline Stark' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Elliott_Guzman
+:Elliott_Guzman rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb9f430b0e9e81165c4 ;
+	:temEmail 'elliott.guzman@clube de orientação do minho.org' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 29 ;
+	:morada 'Rutherford' ;
+	:nomeCompleto 'Elliott Guzman' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Liz_Baldwin
+:Liz_Baldwin rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :ABCbraga ;
+	:temExame :60b3eeb94d27b52fe1b15f19 ;
+	:temEmail 'liz.baldwin@abcbraga.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 23 ;
+	:morada 'Basye' ;
+	:nomeCompleto 'Liz Baldwin' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Warner_Bullock
+:Warner_Bullock rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :GDGoma ;
+	:temExame :60b3eeb91ab516aa15e1199a ;
+	:temEmail 'warner.bullock@gdgoma.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Valle' ;
+	:nomeCompleto 'Warner Bullock' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Santana_Harper
+:Santana_Harper rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb97b17e786bdf88e29 ;
+	:temEmail 'santana.harper@scbraga.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 32 ;
+	:morada 'Malo' ;
+	:nomeCompleto 'Santana Harper' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Imelda_Odonnell
+:Imelda_Odonnell rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb95762eb38f4ae9a22 ;
+	:temEmail 'imelda.odonnell@avcfamalicão.us' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Riviera' ;
+	:nomeCompleto 'Imelda Odonnell' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lila_Curry
+:Lila_Curry rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb9c05f073a238c4aa6 ;
+	:temEmail 'lila.curry@amigosmontanha.com' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 23 ;
+	:morada 'Alden' ;
+	:nomeCompleto 'Lila Curry' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Milagros_Ellis
+:Milagros_Ellis rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb9c82e74bc1831a3be ;
+	:temEmail 'milagros.ellis@acdrcrespos.net' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 21 ;
+	:morada 'Why' ;
+	:nomeCompleto 'Milagros Ellis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Stafford_Hale
+:Stafford_Hale rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb9e81cdbbee14cab97 ;
+	:temEmail 'stafford.hale@acdrcrespos.tv' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 29 ;
+	:morada 'Bowden' ;
+	:nomeCompleto 'Stafford Hale' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Blevins_Cline
+:Blevins_Cline rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Triatlo ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb983fb3181e8f43d12 ;
+	:temEmail 'blevins.cline@clube de orientação do minho.me' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Delshire' ;
+	:nomeCompleto 'Blevins Cline' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Marisol_Owen
+:Marisol_Owen rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb9817b6dc6e2848304 ;
+	:temEmail 'marisol.owen@acdrcrespos.name' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 23 ;
+	:morada 'Soham' ;
+	:nomeCompleto 'Marisol Owen' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mcintyre_Walsh
+:Mcintyre_Walsh rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :ABCbraga ;
+	:temExame :60b3eeb9ab56338f42cdaf13 ;
+	:temEmail 'mcintyre.walsh@abcbraga.ca' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Beechmont' ;
+	:nomeCompleto 'Mcintyre Walsh' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Valarie_Silva
+:Valarie_Silva rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb9de8d709dd3fd086f ;
+	:temEmail 'valarie.silva@acdrcrespos.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 25 ;
+	:morada 'Lynn' ;
+	:nomeCompleto 'Valarie Silva' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Jimmie_Beck
+:Jimmie_Beck rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb9077997c0e212f286 ;
+	:temEmail 'jimmie.beck@avcfamalicão.org' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Walker' ;
+	:nomeCompleto 'Jimmie Beck' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Amparo_Price
+:Amparo_Price rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb916caa13610b8cadf ;
+	:temEmail 'amparo.price@acdrcrespos.co.uk' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Townsend' ;
+	:nomeCompleto 'Amparo Price' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Susanna_Lowery
+:Susanna_Lowery rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :EDViana ;
+	:temExame :60b3eeb9c65ee38149a83dfc ;
+	:temEmail 'susanna.lowery@edviana.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Cawood' ;
+	:nomeCompleto 'Susanna Lowery' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Flynn_Huber
+:Flynn_Huber rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb97c9c1d91087c47a4 ;
+	:temEmail 'flynn.huber@clube de orientação do minho.biz' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 26 ;
+	:morada 'Teasdale' ;
+	:nomeCompleto 'Flynn Huber' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Elaine_Allen
+:Elaine_Allen rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb97aabcddbffca43f3 ;
+	:temEmail 'elaine.allen@acdrcrespos.us' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Kaka' ;
+	:nomeCompleto 'Elaine Allen' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Gwen_Pate
+:Gwen_Pate rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb935b59a6c217af521 ;
+	:temEmail 'gwen.pate@amigosmontanha.com' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 26 ;
+	:morada 'Snelling' ;
+	:nomeCompleto 'Gwen Pate' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Leila_Solis
+:Leila_Solis rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :ACRroriz ;
+	:temExame :60b3eeb972a330700a58a10a ;
+	:temEmail 'leila.solis@acrroriz.net' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 34 ;
+	:morada 'Glenville' ;
+	:nomeCompleto 'Leila Solis' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mercedes_Heath
+:Mercedes_Heath rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :GDGoma ;
+	:temExame :60b3eeb9a78530cac96a3f79 ;
+	:temEmail 'mercedes.heath@gdgoma.tv' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Chaparrito' ;
+	:nomeCompleto 'Mercedes Heath' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Althea_Fitzpatrick
+:Althea_Fitzpatrick rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Basquetebol ;
+	:temClube :EDViana ;
+	:temExame :60b3eeb9235de1538781611d ;
+	:temEmail 'althea.fitzpatrick@edviana.me' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Marne' ;
+	:nomeCompleto 'Althea Fitzpatrick' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Arlene_Morton
+:Arlene_Morton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :Vitoria ;
+	:temExame :60b3eeb9f7311f86c6a33646 ;
+	:temEmail 'arlene.morton@vitoria.name' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 34 ;
+	:morada 'Wiscon' ;
+	:nomeCompleto 'Arlene Morton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mosley_Gonzales
+:Mosley_Gonzales rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb9354e8a0e1817c201 ;
+	:temEmail 'mosley.gonzales@scbraga.ca' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 26 ;
+	:morada 'Driftwood' ;
+	:nomeCompleto 'Mosley Gonzales' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Torres_Hardy
+:Torres_Hardy rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb9e6ca114d8ab96bc4 ;
+	:temEmail 'torres.hardy@clube de orientação do minho.info' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 33 ;
+	:morada 'Fairfield' ;
+	:nomeCompleto 'Torres Hardy' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Annmarie_Petersen
+:Annmarie_Petersen rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb945accec6f3eb9c3d ;
+	:temEmail 'annmarie.petersen@clube de orientação do minho.org' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Twilight' ;
+	:nomeCompleto 'Annmarie Petersen' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Osborn_Green
+:Osborn_Green rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Karaté ;
+	:temClube :ACRroriz ;
+	:temExame :60b3eeb92a2f391cda5b305e ;
+	:temEmail 'osborn.green@acrroriz.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Jacksonwald' ;
+	:nomeCompleto 'Osborn Green' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Davenport_Dominguez
+:Davenport_Dominguez rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :ACRroriz ;
+	:temExame :60b3eeb9a57cc0f98a998c9a ;
+	:temEmail 'davenport.dominguez@acrroriz.biz' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Vallonia' ;
+	:nomeCompleto 'Davenport Dominguez' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Barton_Massey
+:Barton_Massey rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb94b33eaa274778def ;
+	:temEmail 'barton.massey@amigosmontanha.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 26 ;
+	:morada 'Ribera' ;
+	:nomeCompleto 'Barton Massey' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Holly_Bowen
+:Holly_Bowen rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb9a78fd4bfe9e36453 ;
+	:temEmail 'holly.bowen@acdrcrespos.us' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Adamstown' ;
+	:nomeCompleto 'Holly Bowen' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Dennis_Crawford
+:Dennis_Crawford rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Atletismo ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb9868c63b27774163f ;
+	:temEmail 'dennis.crawford@amigosmontanha.com' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Wanship' ;
+	:nomeCompleto 'Dennis Crawford' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Oliver_Mcleod
+:Oliver_Mcleod rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb9a857578bd25302db ;
+	:temEmail 'oliver.mcleod@scbraga.net' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 25 ;
+	:morada 'Garnet' ;
+	:nomeCompleto 'Oliver Mcleod' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Tameka_Orr
+:Tameka_Orr rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :Vitoria ;
+	:temExame :60b3eeb9abbaec58aed568da ;
+	:temEmail 'tameka.orr@vitoria.tv' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 24 ;
+	:morada 'Klagetoh' ;
+	:nomeCompleto 'Tameka Orr' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Foster_Strickland
+:Foster_Strickland rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Patinagem ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb90d885cf3327fe6bd ;
+	:temEmail 'foster.strickland@clube de orientação do minho.me' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Holtville' ;
+	:nomeCompleto 'Foster Strickland' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Marlene_Rodgers
+:Marlene_Rodgers rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb91ded4fa3db5fdf8e ;
+	:temEmail 'marlene.rodgers@scbraga.name' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 27 ;
+	:morada 'Levant' ;
+	:nomeCompleto 'Marlene Rodgers' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Shari_Mathews
+:Shari_Mathews rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb909f2540c651ec8ff ;
+	:temEmail 'shari.mathews@acdrcrespos.ca' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 22 ;
+	:morada 'Joes' ;
+	:nomeCompleto 'Shari Mathews' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Josie_Rasmussen
+:Josie_Rasmussen rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Badminton ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb91c3038d321c60bb3 ;
+	:temEmail 'josie.rasmussen@acdrcrespos.info' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 34 ;
+	:morada 'Riverton' ;
+	:nomeCompleto 'Josie Rasmussen' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Shelton_Walton
+:Shelton_Walton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :EDViana ;
+	:temExame :60b3eeb9c4b1d5f4d4a0099b ;
+	:temEmail 'shelton.walton@edviana.org' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 35 ;
+	:morada 'Williston' ;
+	:nomeCompleto 'Shelton Walton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Odonnell_Russell
+:Odonnell_Russell rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :GDGoma ;
+	:temExame :60b3eeb9cded7ae5d2724d52 ;
+	:temEmail 'odonnell.russell@gdgoma.co.uk' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Alderpoint' ;
+	:nomeCompleto 'Odonnell Russell' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Elba_Le
+:Elba_Le rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :ACRroriz ;
+	:temExame :60b3eeb91485796dedd2444b ;
+	:temEmail 'elba.le@acrroriz.biz' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Ebro' ;
+	:nomeCompleto 'Elba Le' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Sweet_Woodward
+:Sweet_Woodward rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :GDGoma ;
+	:temExame :60b3eeb9fbb0206c040aa4f1 ;
+	:temEmail 'sweet.woodward@gdgoma.biz' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Urie' ;
+	:nomeCompleto 'Sweet Woodward' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Wilkins_Cummings
+:Wilkins_Cummings rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Dança ;
+	:temClube :ACRroriz ;
+	:temExame :60b3eeb9ef81456a2178baca ;
+	:temEmail 'wilkins.cummings@acrroriz.us' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 33 ;
+	:morada 'Gila' ;
+	:nomeCompleto 'Wilkins Cummings' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Rogers_Noel
+:Rogers_Noel rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb929306aeaff7f31a0 ;
+	:temEmail 'rogers.noel@acdrcrespos.com' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 35 ;
+	:morada 'Cresaptown' ;
+	:nomeCompleto 'Rogers Noel' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Hodges_Ashley
+:Hodges_Ashley rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Andebol ;
+	:temClube :ABCbraga ;
+	:temExame :60b3eeb99d4b85092734ded4 ;
+	:temEmail 'hodges.ashley@abcbraga.net' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Crawfordsville' ;
+	:nomeCompleto 'Hodges Ashley' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Curtis_Dillon
+:Curtis_Dillon rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb96b4950f33f42c5b6 ;
+	:temEmail 'curtis.dillon@amigosmontanha.tv' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 29 ;
+	:morada 'Beason' ;
+	:nomeCompleto 'Curtis Dillon' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Lelia_Oliver
+:Lelia_Oliver rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :GDGoma ;
+	:temExame :60b3eeb9c4c935218799831f ;
+	:temEmail 'lelia.oliver@gdgoma.me' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 30 ;
+	:morada 'Cedarville' ;
+	:nomeCompleto 'Lelia Oliver' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Fuentes_Rogers
+:Fuentes_Rogers rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb91dbe172db8fd8f61 ;
+	:temEmail 'fuentes.rogers@scbraga.name' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 28 ;
+	:morada 'Grazierville' ;
+	:nomeCompleto 'Fuentes Rogers' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Carole_Lindsey
+:Carole_Lindsey rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :AmigosMontanha ;
+	:temExame :60b3eeb9c7550e5dc5a5ddb1 ;
+	:temEmail 'carole.lindsey@amigosmontanha.ca' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 34 ;
+	:morada 'Weedville' ;
+	:nomeCompleto 'Carole Lindsey' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Martinez_Johns
+:Martinez_Johns rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :SUP ;
+	:temClube :ABCbraga ;
+	:temExame :60b3eeb95632a2a2915ae72b ;
+	:temEmail 'martinez.johns@abcbraga.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Hebron' ;
+	:nomeCompleto 'Martinez Johns' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Kellie_Holland
+:Kellie_Holland rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb9af56ea737b79ac30 ;
+	:temEmail 'kellie.holland@scbraga.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Bloomington' ;
+	:nomeCompleto 'Kellie Holland' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Mathis_Kirk
+:Mathis_Kirk rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :EDViana ;
+	:temExame :60b3eeb9e387855b0de81d09 ;
+	:temEmail 'mathis.kirk@edviana.co.uk' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Klondike' ;
+	:nomeCompleto 'Mathis Kirk' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Bertha_Shelton
+:Bertha_Shelton rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Orientação ;
+	:temClube :GDGoma ;
+	:temExame :60b3eeb93bfe7ecd8361f659 ;
+	:temEmail 'bertha.shelton@gdgoma.biz' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 28 ;
+	:morada 'Sedley' ;
+	:nomeCompleto 'Bertha Shelton' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Bonnie_Diaz
+:Bonnie_Diaz rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ténis ;
+	:temClube :SCBraga ;
+	:temExame :60b3eeb9860033876d65f5f7 ;
+	:temEmail 'bonnie.diaz@scbraga.biz' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Gerton' ;
+	:nomeCompleto 'Bonnie Diaz' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Becker_Talley
+:Becker_Talley rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb97a2511a770990f0f ;
+	:temEmail 'becker.talley@clube de orientação do minho.us' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Valmy' ;
+	:nomeCompleto 'Becker Talley' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Zelma_Bell
+:Zelma_Bell rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb9080a93e404ab974a ;
+	:temEmail 'zelma.bell@clube de orientação do minho.com' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Shasta' ;
+	:nomeCompleto 'Zelma Bell' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Stanton_Cox
+:Stanton_Cox rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :BTT ;
+	:temClube :EDViana ;
+	:temExame :60b3eeb96e988bb711c0c940 ;
+	:temEmail 'stanton.cox@edviana.net' ;
+	:federado 'false' ;
+	:genero 'F' ;
+	:idade 22 ;
+	:morada 'Foxworth' ;
+	:nomeCompleto 'Stanton Cox' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Cindy_Shepherd
+:Cindy_Shepherd rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Ciclismo ;
+	:temClube :AVCfamalicão ;
+	:temExame :60b3eeb97d329fb5b3d7379b ;
+	:temEmail 'cindy.shepherd@avcfamalicão.tv' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 23 ;
+	:morada 'Brule' ;
+	:nomeCompleto 'Cindy Shepherd' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Knapp_Buckner
+:Knapp_Buckner rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :ABCbraga ;
+	:temExame :60b3eeb95b00f32d469ef4b2 ;
+	:temEmail 'knapp.buckner@abcbraga.me' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 31 ;
+	:morada 'Rose' ;
+	:nomeCompleto 'Knapp Buckner' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Callahan_Mitchell
+:Callahan_Mitchell rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Parapente ;
+	:temClube :ABCbraga ;
+	:temExame :60b3eeb91accf4bd8b426245 ;
+	:temEmail 'callahan.mitchell@abcbraga.name' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 24 ;
+	:morada 'Wollochet' ;
+	:nomeCompleto 'Callahan Mitchell' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Allie_Lyons
+:Allie_Lyons rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Equitação ;
+	:temClube :ACRroriz ;
+	:temExame :60b3eeb9dd4dc919156890ee ;
+	:temEmail 'allie.lyons@acrroriz.ca' ;
+	:federado 'false' ;
+	:genero 'M' ;
+	:idade 31 ;
+	:morada 'Welch' ;
+	:nomeCompleto 'Allie Lyons' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Tammy_Bryant
+:Tammy_Bryant rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Futebol ;
+	:temClube :ACDRcrespos ;
+	:temExame :60b3eeb9d9f01093dc14973f ;
+	:temEmail 'tammy.bryant@acdrcrespos.info' ;
+	:federado 'true' ;
+	:genero 'M' ;
+	:idade 32 ;
+	:morada 'Fidelis' ;
+	:nomeCompleto 'Tammy Bryant' .
+
+
+
+###  http://www.semanticweb.org/comta/ontologies/emd#Carissa_Rosario
+:Carissa_Rosario rdf:type owl:NamedIndividual ,
+			:Atleta ;
+	:praticaModalidade :Esgrima ;
+	:temClube :Clube_de_Orientação_do_Minho ;
+	:temExame :60b3eeb9d027f625a1b63723 ;
+	:temEmail 'carissa.rosario@clube de orientação do minho.org' ;
+	:federado 'true' ;
+	:genero 'F' ;
+	:idade 30 ;
+	:morada 'Brookfield' ;
+	:nomeCompleto 'Carissa Rosario' .
+
+
