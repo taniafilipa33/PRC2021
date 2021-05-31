@@ -52,3 +52,15 @@ select (count(?edm ) as ?NumExames) where {
 } 
 
 
+6-------- atletas F de Triatlo
+
+SELECT(COUNT(*) as ?gens)
+WHERE  { 
+    ?emd ?p :EMD;
+	:pertenceA ?atleta.   
+    ?atleta :genero "F".
+    ?atleta :praticaModalidade ?modalidade.
+    ?modalidade :nomeModalidade "Triatlo" .      
+}
+
+
