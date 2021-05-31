@@ -1,11 +1,11 @@
-1----------
+1----------Exames
 
 select (count( ?emd) as ?nExames) where { 
 	?emd ?p :EMD .
 } 
 
 
-2----------
+2----------Exames com resultado true
 
 select (count( ?emd) as ?nExamesPositivos) where { 
 	?emd ?p :EMD ;
@@ -13,12 +13,37 @@ select (count( ?emd) as ?nExamesPositivos) where {
 } 
 
 
-3---------
+3---------exames por genero
 
-4---------
+SELECT ?genero (COUNT(*) as ?gens)
+WHERE  { 
+	?emd ?p :EMD ;
+    :pertenceA ?atleta.  
+    ?atleta :genero  ?genero .
+}
+group by ?genero
 
-5---------
+4---------exames por modalidade
 
+SELECT ?nome (COUNT(*) as ?gens)
+WHERE  { 
+    ?emd ?p :EMD;
+	:pertenceA ?atleta.   
+    ?atleta :praticaModalidade ?modalidade.
+    ?modalidade :nomeModalidade ?nome .      
+}
+group by ?nome
+
+5---------atletas do GDGoma que tem exame (true) ou aoenas que tem exame
+
+select (count(?edm ) as ?NumExames) where {
+	?atleta ?p :Atleta ;
+         :federado "true";
+         :temClube :GDGoma;
+         :temExame ?edm.
+         ?edm :resultado "true".
+} 
+ou
 select (count(?edm ) as ?NumExames) where {
 	?atleta ?p :Atleta ;
          :federado "true";
